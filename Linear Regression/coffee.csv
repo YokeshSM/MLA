@@ -1,0 +1,101 @@
+Name,Age,Coffee_Cups,Sleep_Hours,Study_Hours,Work_Hours,Stress,Activity_Level
+Arun,24,6,5.2,3.3,5.9,1,Regular Exercise
+Priya,37,3,6.4,3.0,7.7,0,Regular Exercise
+Rahul,32,4,5.5,1.3,7.8,0,Regular Exercise
+Sneha,28,6,4.9,2.4,8.3,1,Moderate
+Karthik,25,2,6.4,2.8,6.3,0,Moderate
+Anjali,38,4,5.3,5.1,6.2,0,Regular Exercise
+Vijay,24,4,6.2,4.0,8.0,0,Moderate
+Divya,43,6,5.3,1.0,7.8,1,Low
+Rohit,36,1,6.3,4.0,7.8,0,Low
+Meena,40,2,6.8,2.9,7.8,0,Low
+Suresh,28,6,5.8,2.5,6.8,1,Low
+Kavya,28,2,6.7,4.4,7.7,0,Moderate
+Arjun,41,2,5.7,5.0,7.8,0,Moderate
+Nisha,38,4,5.4,4.9,6.8,0,Low
+Pranav,21,3,6.5,2.2,9.4,0,Low
+Aishwarya,25,2,6.2,3.0,8.0,0,Low
+Vivek,41,5,5.5,4.0,6.3,0,Regular Exercise
+Pooja,20,4,5.7,5.0,8.2,0,Regular Exercise
+Aditya,39,1,6.6,2.8,6.5,0,Moderate
+Keerthi,38,3,6.0,3.2,8.3,0,Regular Exercise
+Manoj,19,5,4.5,1.8,8.7,0,Moderate
+Harini,41,5,5.2,1.7,6.7,0,Regular Exercise
+Surya,29,1,6.5,4.7,8.5,0,Regular Exercise
+Swetha,23,3,5.3,5.5,7.9,1,Moderate
+Dinesh,19,4,6.2,3.4,8.3,0,Low
+Lakshmi,45,0,6.3,5.0,9.4,0,Moderate
+Naveen,38,3,5.8,4.0,7.3,0,Moderate
+Deepa,18,1,7.0,2.5,6.7,0,Moderate
+Ajay,29,5,5.8,4.0,6.6,0,Moderate
+Shalini,43,4,4.9,5.8,6.7,1,Low
+Sanjay,39,3,6.5,3.4,7.4,0,Moderate
+Anu,29,0,6.9,5.8,7.8,0,Moderate
+Mohan,42,0,7.1,1.0,7.8,0,Regular Exercise
+Riya,34,2,6.4,4.7,8.3,0,Regular Exercise
+Hari,44,2,6.5,3.6,7.5,0,Regular Exercise
+Preethi,44,6,4.6,3.1,9.0,1,Low
+Ravi,27,1,6.8,3.6,7.2,0,Low
+Sowmya,45,3,6.0,1.0,10.0,0,Low
+Vignesh,45,3,6.1,3.2,8.1,0,Regular Exercise
+Reshma,33,6,5.1,4.0,6.6,1,Low
+Gokul,32,5,5.7,5.7,6.4,0,Moderate
+Janani,32,5,4.9,2.7,8.0,1,Low
+Ashwin,36,6,5.8,2.3,7.3,0,Regular Exercise
+Shreya,29,5,4.6,2.7,8.2,0,Moderate
+Bala,40,2,6.2,4.9,8.0,0,Moderate
+Monisha,37,3,6.2,4.0,7.4,0,Moderate
+Kiran,42,6,5.2,2.7,6.7,1,Low
+Pavithra,20,3,5.8,4.3,6.0,0,Moderate
+Sathish,22,0,7.1,3.6,7.1,0,Moderate
+Aparna,36,2,6.0,5.0,8.4,0,Low
+Yash,24,4,5.6,2.4,7.7,0,Regular Exercise
+Mahalakshmi,38,2,6.9,3.0,6.3,0,Moderate
+Varun,26,6,5.1,2.9,7.7,1,Moderate
+Sangeetha,24,4,5.6,1.3,7.9,0,Regular Exercise
+Ramesh,35,0,7.5,3.9,6.6,0,Moderate
+Dhanya,21,6,4.9,3.9,7.7,1,Low
+Vishal,42,1,7.1,3.5,7.6,0,Low
+Ramya,45,3,6.4,3.1,6.4,0,Moderate
+Lokesh,31,0,7.1,1.4,7.9,0,Low
+Neha,35,3,5.9,2.9,8.1,0,Moderate
+Ganesh,43,5,5.5,3.0,8.6,0,Regular Exercise
+Swathi,26,1,7.1,2.3,8.6,0,Moderate
+Nithin,43,1,6.9,3.3,6.1,0,Low
+Aarthi,38,0,7.2,4.1,6.6,0,Moderate
+Siva,19,1,6.9,6.3,8.0,0,Regular Exercise
+Madhuri,37,4,5.4,3.8,8.0,1,Low
+Karthika,45,1,6.9,3.9,8.0,0,Moderate
+Abhishek,32,3,5.8,3.4,10.0,0,Low
+Anitha,45,3,6.2,1.0,8.1,0,Moderate
+Suraj,24,6,5.2,3.5,8.6,1,Moderate
+Nandhini,29,3,6.2,3.6,8.5,0,Low
+Rakesh,25,6,4.7,7.2,8.2,1,Moderate
+Bhavya,32,3,6.6,3.2,7.2,0,Moderate
+Muthu,20,4,5.5,4.0,8.3,1,Moderate
+Sanjana,31,6,5.2,3.4,6.7,1,Low
+Kishore,34,2,6.5,1.7,7.3,0,Low
+Ranjani,21,5,5.2,5.2,7.0,1,Low
+Pradeep,35,0,7.0,4.6,7.6,0,Low
+Gayathri,25,3,5.7,4.7,9.8,0,Moderate
+Vimal,21,1,7.3,2.1,5.6,0,Moderate
+Ishaan,19,3,5.4,5.6,8.2,1,Low
+Maya,23,1,7.9,1.4,5.9,0,Low
+Raghu,39,5,4.9,4.4,7.0,1,Low
+Sahana,27,5,4.5,6.8,8.6,1,Moderate
+Balaji,21,5,5.9,2.0,7.6,0,Regular Exercise
+Padmini,39,1,7.3,2.7,6.4,0,Low
+Akash,35,3,6.3,3.6,6.8,0,Regular Exercise
+Vaishnavi,43,5,5.5,2.7,8.2,0,Low
+Senthil,29,4,6.0,1.2,6.8,0,Regular Exercise
+Sharmila,19,6,4.6,3.6,7.7,1,Moderate
+Tarun,27,1,7.0,1.9,7.5,0,Low
+Sindhu,21,1,6.5,4.2,6.8,0,Moderate
+Krishna,31,3,6.4,2.1,9.6,0,Moderate
+Mounika,33,1,6.4,5.8,8.1,0,Moderate
+Naveena,32,1,6.8,2.3,5.5,0,Moderate
+Tejas,25,5,5.2,3.0,7.7,0,Moderate
+Sowmya,31,3,6.1,4.7,6.8,0,Moderate
+Varsha,40,5,5.2,1.7,8.4,0,Moderate
+Gautham,45,6,4.6,3.8,6.7,1,Low
+Aditi,42,6,4.8,5.5,7.4,1,Moderate

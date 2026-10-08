@@ -1,0 +1,501 @@
+Review_ID,User_Age,Gender,Product_Category,Product,Product_Price,Rating,Review_Title,Review_Text,Verified_Purchase,Review_Length,Helpful_Votes,Purchase_History,Sentiment
+1,25,Female,Home & Kitchen,Air Fryer,242.47,4,Great product!,Very happy with my purchase. I purchased the Air Fryer from the Home & Kitchen category.,Yes,16,6,5,Positive
+2,42,Male,Home & Kitchen,Coffee Maker,921.66,1,Waste of money,Poor quality and not worth the money. I purchased the Coffee Maker from the Home & Kitchen category.,No,18,7,3,Negative
+3,24,Male,Home & Kitchen,Mixer,106.93,5,Highly recommended,Amazing product and great value. I purchased the Mixer from the Home & Kitchen category.,Yes,15,4,8,Positive
+4,57,Female,Beauty,Face Wash,643.48,4,Worth buying,Amazing product and great value. I purchased the Face Wash from the Beauty category.,Yes,14,8,8,Positive
+5,41,Male,Books,Programming Book,428.59,1,Very disappointed,Very disappointed with this product. I purchased the Programming Book from the Books category.,Yes,14,6,9,Negative
+6,25,Female,Home & Kitchen,Cookware Set,1159.19,4,Great product!,"Highly recommended, very useful. I purchased the Cookware Set from the Home & Kitchen category.",Yes,15,10,3,Positive
+7,31,Female,Books,Programming Book,788.87,5,Highly recommended,Excellent quality and works perfectly. I purchased the Programming Book from the Books category.,Yes,14,8,7,Positive
+8,23,Male,Shoes,Sandals,335.48,3,Nothing special,The product is neither good nor bad. I purchased the Sandals from the Shoes category.,No,15,4,9,Neutral
+9,58,Male,Beauty,Face Wash,255.34,3,Average product,It works but there are some issues. I purchased the Face Wash from the Beauty category.,Yes,16,2,6,Neutral
+10,29,Male,Home & Kitchen,Mixer,750.9,5,Very satisfied,I absolutely love this product. I purchased the Mixer from the Home & Kitchen category.,No,15,7,10,Positive
+11,55,Male,Shoes,Formal Shoes,952.14,5,Great product!,Very happy with my purchase. I purchased the Formal Shoes from the Shoes category.,No,14,10,9,Positive
+12,42,Male,Clothing,T-Shirt,816.76,2,Poor product,Does not work as advertised. I purchased the T-Shirt from the Clothing category.,Yes,13,13,1,Negative
+13,49,Female,Electronics,Smartwatch,515.15,1,Waste of money,I would not recommend this product. I purchased the Smartwatch from the Electronics category.,No,14,14,1,Negative
+14,55,Female,Shoes,Running Shoes,875.22,5,Very satisfied,I absolutely love this product. I purchased the Running Shoes from the Shoes category.,Yes,14,3,9,Positive
+15,38,Male,Electronics,Smartwatch,556.04,5,Worth buying,Very happy with my purchase. I purchased the Smartwatch from the Electronics category.,Yes,13,8,2,Positive
+16,50,Male,Beauty,Face Wash,1086.45,1,Not recommended,I regret buying this product. I purchased the Face Wash from the Beauty category.,Yes,14,10,6,Negative
+17,46,Male,Home & Kitchen,Mixer,1450.32,3,Nothing special,It works but there are some issues. I purchased the Mixer from the Home & Kitchen category.,No,17,2,1,Neutral
+18,20,Female,Clothing,T-Shirt,154.79,5,Highly recommended,Really satisfied with this purchase. I purchased the T-Shirt from the Clothing category.,Yes,13,7,10,Positive
+19,24,Female,Clothing,T-Shirt,1199.46,2,Very disappointed,I would not recommend this product. I purchased the T-Shirt from the Clothing category.,Yes,14,9,3,Negative
+20,39,Male,Clothing,Formal Shirt,67.86,3,Decent product,The quality is reasonable for the price. I purchased the Formal Shirt from the Clothing category.,Yes,16,3,5,Neutral
+21,47,Female,Beauty,Sunscreen,959.77,5,Great product!,The quality is better than expected. I purchased the Sunscreen from the Beauty category.,No,14,6,7,Positive
+22,18,Male,Home & Kitchen,Air Fryer,367.28,4,Great product!,I absolutely love this product. I purchased the Air Fryer from the Home & Kitchen category.,Yes,16,9,5,Positive
+23,33,Male,Beauty,Perfume,742.51,5,Excellent purchase,I absolutely love this product. I purchased the Perfume from the Beauty category.,Yes,13,5,3,Positive
+24,33,Male,Electronics,Bluetooth Speaker,967.2,1,Waste of money,I would not recommend this product. I purchased the Bluetooth Speaker from the Electronics category.,Yes,15,13,3,Negative
+25,60,Female,Electronics,Smartphone,585.29,3,Mixed experience,The product is okay for the price. I purchased the Smartphone from the Electronics category.,Yes,15,2,2,Neutral
+26,34,Female,Shoes,Sneakers,584.24,2,Poor product,Very bad experience with this purchase. I purchased the Sneakers from the Shoes category.,No,14,8,5,Negative
+27,53,Male,Books,Self Help Book,1451.7,3,Average product,The product is neither good nor bad. I purchased the Self Help Book from the Books category.,Yes,17,9,7,Neutral
+28,37,Female,Shoes,Running Shoes,486.87,5,Highly recommended,I absolutely love this product. I purchased the Running Shoes from the Shoes category.,Yes,14,9,4,Positive
+29,33,Female,Books,Science Book,145.9,3,It is okay,"Average quality, nothing special. I purchased the Science Book from the Books category.",No,13,4,9,Neutral
+30,55,Male,Clothing,Hoodie,1054.44,3,Mixed experience,"Average quality, nothing special. I purchased the Hoodie from the Clothing category.",Yes,12,3,8,Neutral
+31,24,Other,Electronics,Smartwatch,1132.53,5,Great product!,"Highly recommended, very useful. I purchased the Smartwatch from the Electronics category.",Yes,12,9,9,Positive
+32,42,Female,Shoes,Boots,343.16,5,Great product!,Amazing product and great value. I purchased the Boots from the Shoes category.,No,13,7,9,Positive
+33,20,Female,Beauty,Face Wash,77.72,1,Poor product,I would not recommend this product. I purchased the Face Wash from the Beauty category.,Yes,15,9,5,Negative
+34,45,Male,Home & Kitchen,Vacuum Cleaner,1461.85,2,Bad experience,Very bad experience with this purchase. I purchased the Vacuum Cleaner from the Home & Kitchen category.,Yes,17,8,3,Negative
+35,22,Female,Beauty,Moisturizer,633.18,5,Highly recommended,Excellent quality and works perfectly. I purchased the Moisturizer from the Beauty category.,Yes,13,10,9,Positive
+36,23,Female,Electronics,Bluetooth Speaker,806.18,5,Excellent purchase,Very happy with my purchase. I purchased the Bluetooth Speaker from the Electronics category.,Yes,14,11,8,Positive
+37,20,Female,Clothing,Jeans,1279.75,1,Bad experience,The product arrived damaged. I purchased the Jeans from the Clothing category.,Yes,12,13,7,Negative
+38,56,Male,Books,Programming Book,31.67,3,Decent product,It is acceptable but could be better. I purchased the Programming Book from the Books category.,Yes,16,4,1,Neutral
+39,22,Female,Beauty,Moisturizer,694.43,3,Average product,The product is okay for the price. I purchased the Moisturizer from the Beauty category.,Yes,15,5,3,Neutral
+40,42,Female,Shoes,Sandals,716.2,5,Excellent purchase,Excellent quality and works perfectly. I purchased the Sandals from the Shoes category.,Yes,13,6,10,Positive
+41,26,Male,Electronics,Laptop,726.91,2,Waste of money,I would not recommend this product. I purchased the Laptop from the Electronics category.,No,14,15,10,Negative
+42,32,Female,Electronics,Smartphone,1386.82,1,Not recommended,Poor quality and not worth the money. I purchased the Smartphone from the Electronics category.,Yes,15,10,8,Negative
+43,35,Male,Shoes,Formal Shoes,803.6,1,Poor product,Very disappointed with this product. I purchased the Formal Shoes from the Shoes category.,Yes,14,7,1,Negative
+44,30,Female,Beauty,Perfume,1021.86,5,Great product!,The quality is better than expected. I purchased the Perfume from the Beauty category.,Yes,14,11,9,Positive
+45,21,Female,Books,Biography,140.95,5,Highly recommended,"Fantastic product, I would buy it again. I purchased the Biography from the Books category.",No,15,9,8,Positive
+46,28,Female,Beauty,Face Wash,427.17,2,Very disappointed,Very bad experience with this purchase. I purchased the Face Wash from the Beauty category.,No,15,12,4,Negative
+47,55,Female,Home & Kitchen,Mixer,240.0,1,Poor product,I regret buying this product. I purchased the Mixer from the Home & Kitchen category.,Yes,15,9,5,Negative
+48,19,Male,Home & Kitchen,Coffee Maker,216.85,4,Very satisfied,I absolutely love this product. I purchased the Coffee Maker from the Home & Kitchen category.,Yes,16,10,8,Positive
+49,31,Female,Books,Self Help Book,1239.45,3,Mixed experience,Decent product with average performance. I purchased the Self Help Book from the Books category.,No,15,6,3,Neutral
+50,32,Female,Beauty,Face Wash,539.49,1,Not recommended,Terrible quality and stopped working. I purchased the Face Wash from the Beauty category.,Yes,14,15,3,Negative
+51,32,Female,Shoes,Sneakers,748.18,5,Excellent purchase,Very happy with my purchase. I purchased the Sneakers from the Shoes category.,No,13,4,6,Positive
+52,50,Male,Clothing,Formal Shirt,809.36,3,Decent product,The quality is reasonable for the price. I purchased the Formal Shirt from the Clothing category.,No,16,3,4,Neutral
+53,53,Female,Books,Programming Book,385.18,5,Very satisfied,Very happy with my purchase. I purchased the Programming Book from the Books category.,No,14,7,1,Positive
+54,21,Female,Shoes,Sandals,44.3,5,Great product!,I absolutely love this product. I purchased the Sandals from the Shoes category.,Yes,13,13,5,Positive
+55,43,Male,Books,Novel,603.27,5,Great product!,Very happy with my purchase. I purchased the Novel from the Books category.,No,13,8,5,Positive
+56,39,Male,Electronics,Bluetooth Speaker,326.89,1,Very disappointed,Very disappointed with this product. I purchased the Bluetooth Speaker from the Electronics category.,No,14,6,8,Negative
+57,36,Male,Electronics,Bluetooth Speaker,707.67,5,Worth buying,The quality is better than expected. I purchased the Bluetooth Speaker from the Electronics category.,Yes,15,8,1,Positive
+58,51,Male,Shoes,Sneakers,47.83,4,Excellent purchase,Excellent quality and works perfectly. I purchased the Sneakers from the Shoes category.,No,13,9,8,Positive
+59,54,Male,Shoes,Formal Shoes,615.52,3,Average product,The quality is reasonable for the price. I purchased the Formal Shoes from the Shoes category.,No,16,0,7,Neutral
+60,36,Female,Books,Self Help Book,637.92,5,Very satisfied,"Highly recommended, very useful. I purchased the Self Help Book from the Books category.",Yes,14,7,5,Positive
+61,41,Male,Shoes,Sandals,853.01,3,It is okay,It works but there are some issues. I purchased the Sandals from the Shoes category.,No,15,2,9,Neutral
+62,39,Female,Books,Novel,1476.76,5,Worth buying,The quality is better than expected. I purchased the Novel from the Books category.,Yes,14,9,6,Positive
+63,44,Female,Shoes,Running Shoes,904.77,5,Highly recommended,"Highly recommended, very useful. I purchased the Running Shoes from the Shoes category.",Yes,13,9,8,Positive
+64,57,Female,Home & Kitchen,Mixer,719.32,2,Not recommended,Very bad experience with this purchase. I purchased the Mixer from the Home & Kitchen category.,Yes,16,10,4,Negative
+65,60,Male,Shoes,Sandals,1158.66,4,Excellent purchase,I absolutely love this product. I purchased the Sandals from the Shoes category.,Yes,13,6,3,Positive
+66,34,Female,Home & Kitchen,Cookware Set,674.55,4,Great product!,Really satisfied with this purchase. I purchased the Cookware Set from the Home & Kitchen category.,No,16,11,7,Positive
+67,24,Male,Clothing,Formal Shirt,1049.16,1,Not recommended,I would not recommend this product. I purchased the Formal Shirt from the Clothing category.,Yes,15,9,4,Negative
+68,34,Female,Clothing,Jacket,553.4,3,Decent product,The product is neither good nor bad. I purchased the Jacket from the Clothing category.,Yes,15,2,7,Neutral
+69,42,Female,Electronics,Smartwatch,785.05,3,It is okay,Decent product with average performance. I purchased the Smartwatch from the Electronics category.,Yes,13,1,10,Neutral
+70,30,Male,Beauty,Shampoo,1399.56,3,Decent product,It works but there are some issues. I purchased the Shampoo from the Beauty category.,No,15,8,7,Neutral
+71,20,Male,Books,Novel,452.53,5,Great product!,Excellent quality and works perfectly. I purchased the Novel from the Books category.,Yes,13,3,1,Positive
+72,54,Female,Home & Kitchen,Vacuum Cleaner,143.22,3,Mixed experience,It is acceptable but could be better. I purchased the Vacuum Cleaner from the Home & Kitchen category.,No,18,6,6,Neutral
+73,60,Male,Shoes,Boots,338.52,4,Great product!,Very happy with my purchase. I purchased the Boots from the Shoes category.,No,13,12,9,Positive
+74,58,Male,Home & Kitchen,Air Fryer,416.71,5,Worth buying,Very happy with my purchase. I purchased the Air Fryer from the Home & Kitchen category.,No,16,9,6,Positive
+75,30,Female,Home & Kitchen,Air Fryer,747.77,3,Mixed experience,An ordinary product with normal performance. I purchased the Air Fryer from the Home & Kitchen category.,Yes,17,8,9,Neutral
+76,59,Male,Shoes,Boots,1051.5,1,Poor product,The product arrived damaged. I purchased the Boots from the Shoes category.,No,12,14,7,Negative
+77,56,Male,Clothing,Jacket,1228.77,5,Worth buying,The quality is better than expected. I purchased the Jacket from the Clothing category.,Yes,14,5,8,Positive
+78,27,Male,Shoes,Formal Shoes,1261.78,3,Decent product,The product is neither good nor bad. I purchased the Formal Shoes from the Shoes category.,Yes,16,4,1,Neutral
+79,18,Male,Beauty,Face Wash,121.29,2,Bad experience,Very bad experience with this purchase. I purchased the Face Wash from the Beauty category.,No,15,6,7,Negative
+80,32,Female,Shoes,Running Shoes,386.24,4,Highly recommended,Excellent quality and works perfectly. I purchased the Running Shoes from the Shoes category.,Yes,14,7,4,Positive
+81,45,Female,Shoes,Formal Shoes,1365.19,3,Average product,Decent product with average performance. I purchased the Formal Shoes from the Shoes category.,Yes,14,5,3,Neutral
+82,33,Female,Electronics,Smartwatch,247.28,1,Waste of money,The product arrived damaged. I purchased the Smartwatch from the Electronics category.,Yes,12,13,5,Negative
+83,32,Female,Clothing,Jacket,184.79,4,Excellent purchase,Amazing product and great value. I purchased the Jacket from the Clothing category.,Yes,13,8,5,Positive
+84,48,Female,Beauty,Moisturizer,988.91,2,Waste of money,Poor quality and not worth the money. I purchased the Moisturizer from the Beauty category.,Yes,15,5,9,Negative
+85,49,Female,Home & Kitchen,Mixer,117.9,1,Poor product,Very disappointed with this product. I purchased the Mixer from the Home & Kitchen category.,Yes,15,9,7,Negative
+86,51,Male,Beauty,Moisturizer,1008.87,3,It is okay,An ordinary product with normal performance. I purchased the Moisturizer from the Beauty category.,Yes,14,3,9,Neutral
+87,37,Male,Home & Kitchen,Coffee Maker,1224.09,1,Very disappointed,Poor quality and not worth the money. I purchased the Coffee Maker from the Home & Kitchen category.,Yes,18,11,3,Negative
+88,35,Male,Home & Kitchen,Coffee Maker,378.18,4,Excellent purchase,The quality is better than expected. I purchased the Coffee Maker from the Home & Kitchen category.,Yes,17,6,6,Positive
+89,58,Female,Shoes,Boots,131.47,3,Decent product,It works but there are some issues. I purchased the Boots from the Shoes category.,Yes,15,1,1,Neutral
+90,41,Male,Electronics,Bluetooth Speaker,525.44,1,Waste of money,Poor quality and not worth the money. I purchased the Bluetooth Speaker from the Electronics category.,Yes,16,10,9,Negative
+91,53,Female,Clothing,Formal Shirt,1352.05,5,Worth buying,Excellent quality and works perfectly. I purchased the Formal Shirt from the Clothing category.,No,14,10,2,Positive
+92,31,Female,Books,Biography,545.26,5,Highly recommended,Really satisfied with this purchase. I purchased the Biography from the Books category.,Yes,13,6,7,Positive
+93,33,Female,Clothing,Jacket,512.13,5,Excellent purchase,I absolutely love this product. I purchased the Jacket from the Clothing category.,Yes,13,12,4,Positive
+94,54,Female,Beauty,Moisturizer,68.62,4,Excellent purchase,Really satisfied with this purchase. I purchased the Moisturizer from the Beauty category.,Yes,13,7,9,Positive
+95,60,Female,Books,Novel,1003.63,1,Very disappointed,I would not recommend this product. I purchased the Novel from the Books category.,Yes,14,12,5,Negative
+96,51,Female,Books,Biography,1468.16,3,Average product,It works but there are some issues. I purchased the Biography from the Books category.,Yes,15,4,8,Neutral
+97,36,Female,Beauty,Perfume,1241.99,2,Bad experience,Very disappointed with this product. I purchased the Perfume from the Beauty category.,Yes,13,9,9,Negative
+98,51,Male,Books,Novel,497.28,5,Great product!,Really satisfied with this purchase. I purchased the Novel from the Books category.,No,13,11,1,Positive
+99,43,Female,Electronics,Wireless Earbuds,260.98,5,Worth buying,Excellent quality and works perfectly. I purchased the Wireless Earbuds from the Electronics category.,Yes,14,6,2,Positive
+100,40,Female,Home & Kitchen,Vacuum Cleaner,1080.0,2,Waste of money,The product arrived damaged. I purchased the Vacuum Cleaner from the Home & Kitchen category.,No,15,9,5,Negative
+101,32,Male,Electronics,Smartwatch,723.98,3,It is okay,It works but there are some issues. I purchased the Smartwatch from the Electronics category.,Yes,15,3,3,Neutral
+102,30,Male,Home & Kitchen,Coffee Maker,191.61,4,Great product!,"Highly recommended, very useful. I purchased the Coffee Maker from the Home & Kitchen category.",No,15,7,6,Positive
+103,30,Female,Home & Kitchen,Air Fryer,1230.59,2,Bad experience,Very disappointed with this product. I purchased the Air Fryer from the Home & Kitchen category.,No,16,11,9,Negative
+104,54,Male,Clothing,T-Shirt,1100.62,5,Highly recommended,"Highly recommended, very useful. I purchased the T-Shirt from the Clothing category.",Yes,12,8,5,Positive
+105,31,Female,Home & Kitchen,Cookware Set,97.1,4,Worth buying,"Fantastic product, I would buy it again. I purchased the Cookware Set from the Home & Kitchen category.",Yes,18,9,7,Positive
+106,50,Female,Beauty,Perfume,607.77,5,Excellent purchase,Really satisfied with this purchase. I purchased the Perfume from the Beauty category.,Yes,13,5,6,Positive
+107,20,Male,Shoes,Sandals,87.98,5,Great product!,Really satisfied with this purchase. I purchased the Sandals from the Shoes category.,Yes,13,7,10,Positive
+108,25,Female,Home & Kitchen,Mixer,1391.49,4,Excellent purchase,Amazing product and great value. I purchased the Mixer from the Home & Kitchen category.,No,15,5,6,Positive
+109,55,Male,Electronics,Bluetooth Speaker,104.03,3,Average product,The product is neither good nor bad. I purchased the Bluetooth Speaker from the Electronics category.,Yes,16,2,9,Neutral
+110,40,Female,Electronics,Wireless Earbuds,1311.27,3,Mixed experience,It is acceptable but could be better. I purchased the Wireless Earbuds from the Electronics category.,No,16,5,2,Neutral
+111,23,Male,Shoes,Sneakers,325.85,3,It is okay,It is acceptable but could be better. I purchased the Sneakers from the Shoes category.,Yes,15,3,4,Neutral
+112,50,Female,Clothing,T-Shirt,735.72,2,Bad experience,Very bad experience with this purchase. I purchased the T-Shirt from the Clothing category.,No,14,13,2,Negative
+113,21,Male,Clothing,Hoodie,1167.32,4,Worth buying,Amazing product and great value. I purchased the Hoodie from the Clothing category.,Yes,13,7,3,Positive
+114,19,Female,Shoes,Sneakers,1133.84,2,Waste of money,Does not work as advertised. I purchased the Sneakers from the Shoes category.,No,13,7,9,Negative
+115,33,Male,Beauty,Shampoo,769.04,5,Worth buying,I absolutely love this product. I purchased the Shampoo from the Beauty category.,Yes,13,10,7,Positive
+116,19,Male,Books,Biography,633.69,5,Worth buying,The quality is better than expected. I purchased the Biography from the Books category.,Yes,14,3,2,Positive
+117,49,Female,Books,Biography,173.51,3,Decent product,The product is neither good nor bad. I purchased the Biography from the Books category.,Yes,15,3,2,Neutral
+118,58,Female,Home & Kitchen,Coffee Maker,1290.75,1,Very disappointed,Terrible quality and stopped working. I purchased the Coffee Maker from the Home & Kitchen category.,No,16,17,9,Negative
+119,46,Male,Electronics,Laptop,1396.18,4,Worth buying,"Fantastic product, I would buy it again. I purchased the Laptop from the Electronics category.",Yes,15,9,5,Positive
+120,41,Male,Electronics,Wireless Earbuds,63.0,1,Not recommended,I would not recommend this product. I purchased the Wireless Earbuds from the Electronics category.,Yes,15,8,3,Negative
+121,22,Female,Home & Kitchen,Cookware Set,1247.5,4,Great product!,Excellent quality and works perfectly. I purchased the Cookware Set from the Home & Kitchen category.,Yes,16,7,4,Positive
+122,27,Female,Electronics,Smartphone,446.3,2,Not recommended,Very bad experience with this purchase. I purchased the Smartphone from the Electronics category.,Yes,14,15,2,Negative
+123,26,Male,Clothing,T-Shirt,653.79,3,Mixed experience,The product is neither good nor bad. I purchased the T-Shirt from the Clothing category.,Yes,15,4,1,Neutral
+124,56,Female,Shoes,Sneakers,1379.2,3,Nothing special,"Average quality, nothing special. I purchased the Sneakers from the Shoes category.",Yes,12,4,6,Neutral
+125,35,Male,Electronics,Smartwatch,1031.09,4,Great product!,Excellent quality and works perfectly. I purchased the Smartwatch from the Electronics category.,Yes,13,13,8,Positive
+126,21,Male,Home & Kitchen,Air Fryer,608.23,3,It is okay,"Average quality, nothing special. I purchased the Air Fryer from the Home & Kitchen category.",Yes,15,6,4,Neutral
+127,34,Male,Clothing,Jeans,1126.82,5,Excellent purchase,Amazing product and great value. I purchased the Jeans from the Clothing category.,Yes,13,11,5,Positive
+128,37,Male,Beauty,Perfume,1312.65,5,Worth buying,Very happy with my purchase. I purchased the Perfume from the Beauty category.,Yes,13,10,10,Positive
+129,53,Male,Home & Kitchen,Cookware Set,1105.9,4,Very satisfied,"Highly recommended, very useful. I purchased the Cookware Set from the Home & Kitchen category.",Yes,15,13,9,Positive
+130,30,Female,Books,Programming Book,882.86,5,Excellent purchase,Really satisfied with this purchase. I purchased the Programming Book from the Books category.,Yes,14,10,4,Positive
+131,53,Female,Shoes,Running Shoes,246.77,3,Decent product,The product is neither good nor bad. I purchased the Running Shoes from the Shoes category.,Yes,16,3,8,Neutral
+132,45,Female,Clothing,Hoodie,1462.5,5,Highly recommended,"Highly recommended, very useful. I purchased the Hoodie from the Clothing category.",Yes,12,4,10,Positive
+133,50,Female,Electronics,Bluetooth Speaker,138.77,1,Bad experience,I would not recommend this product. I purchased the Bluetooth Speaker from the Electronics category.,Yes,15,18,7,Negative
+134,31,Female,Clothing,Jeans,1472.13,4,Very satisfied,Very happy with my purchase. I purchased the Jeans from the Clothing category.,Yes,13,6,5,Positive
+135,50,Female,Clothing,T-Shirt,181.01,3,It is okay,"Average quality, nothing special. I purchased the T-Shirt from the Clothing category.",Yes,12,6,5,Neutral
+136,51,Female,Beauty,Face Wash,695.64,2,Not recommended,Poor quality and not worth the money. I purchased the Face Wash from the Beauty category.,Yes,16,10,10,Negative
+137,24,Female,Shoes,Running Shoes,821.82,5,Highly recommended,Amazing product and great value. I purchased the Running Shoes from the Shoes category.,Yes,14,8,9,Positive
+138,52,Male,Home & Kitchen,Mixer,988.6,5,Great product!,Excellent quality and works perfectly. I purchased the Mixer from the Home & Kitchen category.,Yes,15,6,8,Positive
+139,37,Female,Beauty,Moisturizer,257.39,5,Highly recommended,The quality is better than expected. I purchased the Moisturizer from the Beauty category.,No,14,7,4,Positive
+140,33,Other,Electronics,Smartwatch,733.18,1,Very disappointed,Very bad experience with this purchase. I purchased the Smartwatch from the Electronics category.,Yes,14,9,5,Negative
+141,37,Female,Shoes,Running Shoes,128.32,5,Excellent purchase,The quality is better than expected. I purchased the Running Shoes from the Shoes category.,Yes,15,12,8,Positive
+142,51,Male,Beauty,Face Wash,681.02,5,Very satisfied,I absolutely love this product. I purchased the Face Wash from the Beauty category.,Yes,14,7,3,Positive
+143,18,Female,Beauty,Face Wash,426.12,2,Not recommended,Poor quality and not worth the money. I purchased the Face Wash from the Beauty category.,No,16,7,5,Negative
+144,31,Female,Electronics,Bluetooth Speaker,356.82,5,Great product!,Amazing product and great value. I purchased the Bluetooth Speaker from the Electronics category.,Yes,14,11,4,Positive
+145,39,Female,Electronics,Laptop,445.41,3,Mixed experience,It works but there are some issues. I purchased the Laptop from the Electronics category.,No,15,9,5,Neutral
+146,50,Male,Home & Kitchen,Mixer,458.89,5,Highly recommended,Very happy with my purchase. I purchased the Mixer from the Home & Kitchen category.,Yes,15,11,3,Positive
+147,38,Male,Beauty,Moisturizer,1248.75,1,Very disappointed,Very disappointed with this product. I purchased the Moisturizer from the Beauty category.,Yes,13,10,3,Negative
+148,40,Male,Clothing,T-Shirt,482.25,5,Very satisfied,"Highly recommended, very useful. I purchased the T-Shirt from the Clothing category.",Yes,12,8,4,Positive
+149,19,Male,Books,Self Help Book,714.62,2,Bad experience,I would not recommend this product. I purchased the Self Help Book from the Books category.,Yes,16,4,1,Negative
+150,36,Male,Home & Kitchen,Coffee Maker,1457.58,3,Nothing special,Decent product with average performance. I purchased the Coffee Maker from the Home & Kitchen category.,Yes,16,6,1,Neutral
+151,56,Female,Home & Kitchen,Vacuum Cleaner,862.35,5,Highly recommended,Very happy with my purchase. I purchased the Vacuum Cleaner from the Home & Kitchen category.,Yes,16,8,3,Positive
+152,36,Male,Books,Biography,1362.34,5,Great product!,Amazing product and great value. I purchased the Biography from the Books category.,Yes,13,5,7,Positive
+153,21,Male,Home & Kitchen,Coffee Maker,689.79,5,Great product!,Very happy with my purchase. I purchased the Coffee Maker from the Home & Kitchen category.,Yes,16,11,9,Positive
+154,44,Female,Home & Kitchen,Cookware Set,799.69,2,Bad experience,Very bad experience with this purchase. I purchased the Cookware Set from the Home & Kitchen category.,Yes,17,8,10,Negative
+155,42,Female,Books,Novel,981.91,5,Highly recommended,Really satisfied with this purchase. I purchased the Novel from the Books category.,No,13,8,9,Positive
+156,53,Male,Clothing,Jacket,793.46,1,Waste of money,Poor quality and not worth the money. I purchased the Jacket from the Clothing category.,Yes,15,8,10,Negative
+157,48,Female,Clothing,Hoodie,898.02,4,Highly recommended,"Fantastic product, I would buy it again. I purchased the Hoodie from the Clothing category.",Yes,15,7,3,Positive
+158,60,Male,Books,Science Book,248.44,4,Great product!,Very happy with my purchase. I purchased the Science Book from the Books category.,Yes,14,9,4,Positive
+159,58,Female,Books,Science Book,817.14,3,Decent product,It is acceptable but could be better. I purchased the Science Book from the Books category.,Yes,16,5,5,Neutral
+160,45,Female,Shoes,Sandals,1499.57,4,Worth buying,Excellent quality and works perfectly. I purchased the Sandals from the Shoes category.,Yes,13,8,1,Positive
+161,44,Female,Home & Kitchen,Cookware Set,1085.99,5,Great product!,Amazing product and great value. I purchased the Cookware Set from the Home & Kitchen category.,Yes,16,5,6,Positive
+162,49,Female,Shoes,Formal Shoes,460.65,1,Not recommended,I regret buying this product. I purchased the Formal Shoes from the Shoes category.,Yes,14,13,9,Negative
+163,31,Male,Clothing,T-Shirt,670.75,3,Mixed experience,The quality is reasonable for the price. I purchased the T-Shirt from the Clothing category.,Yes,15,3,4,Neutral
+164,49,Male,Electronics,Smartphone,474.73,3,Mixed experience,It works but there are some issues. I purchased the Smartphone from the Electronics category.,Yes,15,3,6,Neutral
+165,27,Male,Beauty,Shampoo,456.1,3,Nothing special,An ordinary product with normal performance. I purchased the Shampoo from the Beauty category.,No,14,7,7,Neutral
+166,18,Male,Electronics,Smartwatch,18.44,3,Nothing special,An ordinary product with normal performance. I purchased the Smartwatch from the Electronics category.,Yes,14,5,4,Neutral
+167,30,Female,Shoes,Formal Shoes,117.75,2,Poor product,I regret buying this product. I purchased the Formal Shoes from the Shoes category.,No,14,12,2,Negative
+168,43,Male,Home & Kitchen,Vacuum Cleaner,449.98,4,Worth buying,"Highly recommended, very useful. I purchased the Vacuum Cleaner from the Home & Kitchen category.",Yes,15,3,7,Positive
+169,30,Female,Electronics,Smartphone,543.14,2,Waste of money,Very bad experience with this purchase. I purchased the Smartphone from the Electronics category.,Yes,14,9,6,Negative
+170,45,Male,Home & Kitchen,Coffee Maker,461.76,4,Great product!,Really satisfied with this purchase. I purchased the Coffee Maker from the Home & Kitchen category.,Yes,16,7,1,Positive
+171,35,Male,Electronics,Laptop,1063.39,3,Average product,The quality is reasonable for the price. I purchased the Laptop from the Electronics category.,Yes,15,3,9,Neutral
+172,51,Male,Shoes,Formal Shoes,1185.51,2,Bad experience,The product arrived damaged. I purchased the Formal Shoes from the Shoes category.,Yes,13,9,3,Negative
+173,46,Male,Electronics,Laptop,952.74,5,Highly recommended,Excellent quality and works perfectly. I purchased the Laptop from the Electronics category.,Yes,13,7,4,Positive
+174,34,Male,Shoes,Sandals,1435.63,3,Average product,The product is neither good nor bad. I purchased the Sandals from the Shoes category.,No,15,4,7,Neutral
+175,53,Female,Books,Programming Book,325.87,2,Bad experience,I regret buying this product. I purchased the Programming Book from the Books category.,Yes,14,11,7,Negative
+176,25,Female,Books,Programming Book,1110.51,5,Very satisfied,Amazing product and great value. I purchased the Programming Book from the Books category.,Yes,14,7,5,Positive
+177,54,Female,Books,Programming Book,1259.02,5,Excellent purchase,Really satisfied with this purchase. I purchased the Programming Book from the Books category.,Yes,14,5,4,Positive
+178,37,Male,Home & Kitchen,Coffee Maker,408.21,1,Poor product,Poor quality and not worth the money. I purchased the Coffee Maker from the Home & Kitchen category.,No,18,6,9,Negative
+179,24,Male,Books,Biography,563.89,4,Very satisfied,Very happy with my purchase. I purchased the Biography from the Books category.,Yes,13,12,7,Positive
+180,26,Male,Clothing,Hoodie,800.8,3,It is okay,The product is neither good nor bad. I purchased the Hoodie from the Clothing category.,Yes,15,3,7,Neutral
+181,36,Male,Electronics,Laptop,1218.57,3,It is okay,An ordinary product with normal performance. I purchased the Laptop from the Electronics category.,No,14,6,9,Neutral
+182,37,Female,Clothing,T-Shirt,677.03,3,Mixed experience,It is acceptable but could be better. I purchased the T-Shirt from the Clothing category.,Yes,15,8,3,Neutral
+183,50,Male,Home & Kitchen,Air Fryer,1492.52,5,Very satisfied,"Highly recommended, very useful. I purchased the Air Fryer from the Home & Kitchen category.",Yes,15,11,10,Positive
+184,51,Female,Home & Kitchen,Cookware Set,598.86,2,Very disappointed,Terrible quality and stopped working. I purchased the Cookware Set from the Home & Kitchen category.,Yes,16,6,4,Negative
+185,41,Female,Shoes,Running Shoes,1284.26,5,Highly recommended,The quality is better than expected. I purchased the Running Shoes from the Shoes category.,Yes,15,8,5,Positive
+186,30,Male,Electronics,Bluetooth Speaker,1353.06,1,Waste of money,Does not work as advertised. I purchased the Bluetooth Speaker from the Electronics category.,No,14,13,4,Negative
+187,56,Female,Books,Self Help Book,542.11,5,Worth buying,Amazing product and great value. I purchased the Self Help Book from the Books category.,Yes,15,11,8,Positive
+188,28,Female,Electronics,Bluetooth Speaker,646.98,5,Very satisfied,Very happy with my purchase. I purchased the Bluetooth Speaker from the Electronics category.,Yes,14,11,7,Positive
+189,32,Female,Beauty,Face Wash,695.4,4,Great product!,Very happy with my purchase. I purchased the Face Wash from the Beauty category.,No,14,9,5,Positive
+190,23,Male,Electronics,Bluetooth Speaker,1459.89,4,Excellent purchase,Really satisfied with this purchase. I purchased the Bluetooth Speaker from the Electronics category.,Yes,14,7,7,Positive
+191,44,Male,Clothing,Formal Shirt,196.78,1,Not recommended,Does not work as advertised. I purchased the Formal Shirt from the Clothing category.,No,14,9,1,Negative
+192,51,Female,Clothing,Jeans,879.82,5,Highly recommended,Excellent quality and works perfectly. I purchased the Jeans from the Clothing category.,Yes,13,10,7,Positive
+193,56,Female,Beauty,Face Wash,523.46,4,Highly recommended,I absolutely love this product. I purchased the Face Wash from the Beauty category.,Yes,14,13,3,Positive
+194,50,Other,Home & Kitchen,Cookware Set,662.12,4,Great product!,Very happy with my purchase. I purchased the Cookware Set from the Home & Kitchen category.,Yes,16,10,10,Positive
+195,19,Female,Home & Kitchen,Vacuum Cleaner,1012.33,2,Very disappointed,Does not work as advertised. I purchased the Vacuum Cleaner from the Home & Kitchen category.,Yes,16,7,1,Negative
+196,44,Male,Home & Kitchen,Air Fryer,1403.14,5,Very satisfied,Amazing product and great value. I purchased the Air Fryer from the Home & Kitchen category.,Yes,16,6,7,Positive
+197,24,Female,Electronics,Bluetooth Speaker,306.5,3,Average product,It works but there are some issues. I purchased the Bluetooth Speaker from the Electronics category.,No,16,5,10,Neutral
+198,58,Female,Clothing,Jeans,1059.79,5,Very satisfied,Very happy with my purchase. I purchased the Jeans from the Clothing category.,Yes,13,9,6,Positive
+199,36,Female,Shoes,Running Shoes,976.27,4,Great product!,Excellent quality and works perfectly. I purchased the Running Shoes from the Shoes category.,Yes,14,7,4,Positive
+200,32,Male,Shoes,Sneakers,1409.2,4,Excellent purchase,"Fantastic product, I would buy it again. I purchased the Sneakers from the Shoes category.",Yes,15,6,1,Positive
+201,59,Female,Home & Kitchen,Mixer,329.86,3,It is okay,It is acceptable but could be better. I purchased the Mixer from the Home & Kitchen category.,Yes,17,0,6,Neutral
+202,42,Male,Shoes,Sandals,395.48,1,Waste of money,Very disappointed with this product. I purchased the Sandals from the Shoes category.,Yes,13,10,2,Negative
+203,49,Female,Books,Novel,53.96,3,Nothing special,The product is okay for the price. I purchased the Novel from the Books category.,Yes,15,2,2,Neutral
+204,33,Male,Beauty,Moisturizer,1427.72,2,Not recommended,Very bad experience with this purchase. I purchased the Moisturizer from the Beauty category.,Yes,14,10,8,Negative
+205,44,Female,Clothing,T-Shirt,112.0,5,Very satisfied,I absolutely love this product. I purchased the T-Shirt from the Clothing category.,Yes,13,12,5,Positive
+206,28,Female,Clothing,Jeans,309.64,1,Bad experience,Does not work as advertised. I purchased the Jeans from the Clothing category.,Yes,13,9,1,Negative
+207,45,Female,Books,Biography,1323.72,3,It is okay,Decent product with average performance. I purchased the Biography from the Books category.,No,13,2,8,Neutral
+208,41,Female,Electronics,Bluetooth Speaker,468.62,2,Very disappointed,I would not recommend this product. I purchased the Bluetooth Speaker from the Electronics category.,No,15,11,10,Negative
+209,23,Female,Electronics,Bluetooth Speaker,759.67,3,Mixed experience,It is acceptable but could be better. I purchased the Bluetooth Speaker from the Electronics category.,Yes,16,5,9,Neutral
+210,40,Male,Books,Biography,1113.53,2,Very disappointed,The product arrived damaged. I purchased the Biography from the Books category.,Yes,12,10,1,Negative
+211,31,Male,Beauty,Shampoo,955.61,1,Not recommended,Terrible quality and stopped working. I purchased the Shampoo from the Beauty category.,Yes,13,11,7,Negative
+212,60,Female,Beauty,Perfume,629.5,1,Poor product,I regret buying this product. I purchased the Perfume from the Beauty category.,Yes,13,9,2,Negative
+213,51,Male,Shoes,Boots,1418.22,3,Average product,An ordinary product with normal performance. I purchased the Boots from the Shoes category.,Yes,14,2,10,Neutral
+214,20,Male,Books,Biography,766.63,3,Decent product,Decent product with average performance. I purchased the Biography from the Books category.,Yes,13,7,6,Neutral
+215,39,Female,Electronics,Smartphone,732.79,1,Bad experience,Very disappointed with this product. I purchased the Smartphone from the Electronics category.,Yes,13,10,9,Negative
+216,47,Female,Shoes,Formal Shoes,33.11,4,Very satisfied,Excellent quality and works perfectly. I purchased the Formal Shoes from the Shoes category.,Yes,14,7,6,Positive
+217,20,Male,Books,Self Help Book,532.28,5,Worth buying,Very happy with my purchase. I purchased the Self Help Book from the Books category.,Yes,15,8,2,Positive
+218,54,Female,Electronics,Smartwatch,531.8,3,Decent product,An ordinary product with normal performance. I purchased the Smartwatch from the Electronics category.,Yes,14,4,9,Neutral
+219,33,Female,Beauty,Sunscreen,899.76,5,Excellent purchase,Amazing product and great value. I purchased the Sunscreen from the Beauty category.,No,13,13,10,Positive
+220,40,Female,Clothing,Hoodie,1196.4,4,Very satisfied,Really satisfied with this purchase. I purchased the Hoodie from the Clothing category.,Yes,13,9,5,Positive
+221,37,Male,Beauty,Perfume,654.2,3,Mixed experience,The product is okay for the price. I purchased the Perfume from the Beauty category.,Yes,15,7,8,Neutral
+222,28,Female,Books,Programming Book,1063.19,3,Nothing special,It is acceptable but could be better. I purchased the Programming Book from the Books category.,Yes,16,7,1,Neutral
+223,28,Male,Home & Kitchen,Cookware Set,129.53,5,Worth buying,Really satisfied with this purchase. I purchased the Cookware Set from the Home & Kitchen category.,Yes,16,13,10,Positive
+224,36,Female,Shoes,Running Shoes,574.9,5,Highly recommended,Amazing product and great value. I purchased the Running Shoes from the Shoes category.,Yes,14,11,7,Positive
+225,58,Female,Books,Science Book,1461.63,1,Waste of money,Very bad experience with this purchase. I purchased the Science Book from the Books category.,Yes,15,11,8,Negative
+226,46,Female,Beauty,Moisturizer,100.3,2,Bad experience,Very disappointed with this product. I purchased the Moisturizer from the Beauty category.,Yes,13,10,2,Negative
+227,43,Female,Electronics,Laptop,151.41,3,Decent product,It works but there are some issues. I purchased the Laptop from the Electronics category.,Yes,15,1,1,Neutral
+228,44,Female,Home & Kitchen,Cookware Set,436.91,5,Excellent purchase,Very happy with my purchase. I purchased the Cookware Set from the Home & Kitchen category.,Yes,16,9,1,Positive
+229,28,Female,Beauty,Sunscreen,630.16,4,Highly recommended,Very happy with my purchase. I purchased the Sunscreen from the Beauty category.,Yes,13,7,8,Positive
+230,27,Male,Beauty,Sunscreen,539.43,5,Highly recommended,"Fantastic product, I would buy it again. I purchased the Sunscreen from the Beauty category.",No,15,6,7,Positive
+231,27,Female,Home & Kitchen,Air Fryer,224.68,2,Very disappointed,I would not recommend this product. I purchased the Air Fryer from the Home & Kitchen category.,Yes,17,14,10,Negative
+232,26,Male,Clothing,Formal Shirt,527.12,5,Excellent purchase,Amazing product and great value. I purchased the Formal Shirt from the Clothing category.,Yes,14,13,3,Positive
+233,57,Male,Home & Kitchen,Cookware Set,1427.65,3,Decent product,Decent product with average performance. I purchased the Cookware Set from the Home & Kitchen category.,Yes,16,8,8,Neutral
+234,51,Female,Books,Self Help Book,909.74,5,Great product!,"Highly recommended, very useful. I purchased the Self Help Book from the Books category.",Yes,14,8,9,Positive
+235,56,Female,Beauty,Sunscreen,1130.0,3,It is okay,Decent product with average performance. I purchased the Sunscreen from the Beauty category.,No,13,5,1,Neutral
+236,25,Male,Clothing,Jacket,364.84,5,Highly recommended,"Highly recommended, very useful. I purchased the Jacket from the Clothing category.",Yes,12,12,1,Positive
+237,48,Male,Home & Kitchen,Mixer,943.22,1,Not recommended,Very disappointed with this product. I purchased the Mixer from the Home & Kitchen category.,Yes,15,14,3,Negative
+238,29,Female,Clothing,T-Shirt,176.27,5,Worth buying,"Fantastic product, I would buy it again. I purchased the T-Shirt from the Clothing category.",No,15,7,5,Positive
+239,25,Female,Beauty,Moisturizer,359.29,5,Worth buying,I absolutely love this product. I purchased the Moisturizer from the Beauty category.,Yes,13,6,6,Positive
+240,43,Female,Shoes,Sandals,516.26,1,Poor product,Terrible quality and stopped working. I purchased the Sandals from the Shoes category.,Yes,13,12,3,Negative
+241,45,Male,Home & Kitchen,Cookware Set,521.65,5,Excellent purchase,"Highly recommended, very useful. I purchased the Cookware Set from the Home & Kitchen category.",No,15,7,9,Positive
+242,59,Female,Shoes,Sneakers,974.8,4,Worth buying,Very happy with my purchase. I purchased the Sneakers from the Shoes category.,No,13,3,9,Positive
+243,40,Female,Home & Kitchen,Coffee Maker,1344.39,2,Not recommended,Does not work as advertised. I purchased the Coffee Maker from the Home & Kitchen category.,Yes,16,5,2,Negative
+244,39,Male,Clothing,Formal Shirt,733.87,4,Very satisfied,The quality is better than expected. I purchased the Formal Shirt from the Clothing category.,Yes,15,7,7,Positive
+245,52,Female,Shoes,Sneakers,988.98,5,Highly recommended,Excellent quality and works perfectly. I purchased the Sneakers from the Shoes category.,Yes,13,5,5,Positive
+246,19,Female,Books,Biography,58.34,5,Very satisfied,Amazing product and great value. I purchased the Biography from the Books category.,Yes,13,9,2,Positive
+247,39,Male,Electronics,Smartwatch,924.82,1,Very disappointed,Does not work as advertised. I purchased the Smartwatch from the Electronics category.,Yes,13,13,1,Negative
+248,55,Male,Beauty,Moisturizer,728.38,5,Excellent purchase,Really satisfied with this purchase. I purchased the Moisturizer from the Beauty category.,Yes,13,6,5,Positive
+249,22,Male,Electronics,Smartphone,382.16,2,Waste of money,Terrible quality and stopped working. I purchased the Smartphone from the Electronics category.,No,13,11,7,Negative
+250,52,Male,Shoes,Formal Shoes,538.45,5,Highly recommended,"Fantastic product, I would buy it again. I purchased the Formal Shoes from the Shoes category.",No,16,9,4,Positive
+251,45,Female,Home & Kitchen,Vacuum Cleaner,1068.07,4,Excellent purchase,"Fantastic product, I would buy it again. I purchased the Vacuum Cleaner from the Home & Kitchen category.",Yes,18,15,5,Positive
+252,40,Female,Books,Science Book,656.32,4,Very satisfied,Excellent quality and works perfectly. I purchased the Science Book from the Books category.,Yes,14,5,1,Positive
+253,22,Female,Home & Kitchen,Mixer,1232.44,1,Not recommended,Very disappointed with this product. I purchased the Mixer from the Home & Kitchen category.,Yes,15,13,10,Negative
+254,31,Female,Electronics,Smartwatch,189.38,5,Very satisfied,"Highly recommended, very useful. I purchased the Smartwatch from the Electronics category.",Yes,12,13,3,Positive
+255,28,Female,Clothing,Jeans,1422.89,5,Highly recommended,I absolutely love this product. I purchased the Jeans from the Clothing category.,Yes,13,6,5,Positive
+256,59,Female,Clothing,T-Shirt,602.55,3,Decent product,The quality is reasonable for the price. I purchased the T-Shirt from the Clothing category.,Yes,15,3,7,Neutral
+257,34,Male,Home & Kitchen,Air Fryer,483.16,3,It is okay,The product is neither good nor bad. I purchased the Air Fryer from the Home & Kitchen category.,No,18,3,5,Neutral
+258,54,Female,Books,Science Book,731.74,2,Waste of money,Poor quality and not worth the money. I purchased the Science Book from the Books category.,Yes,16,11,7,Negative
+259,53,Male,Books,Science Book,197.09,1,Bad experience,Very bad experience with this purchase. I purchased the Science Book from the Books category.,Yes,15,9,6,Negative
+260,53,Male,Home & Kitchen,Vacuum Cleaner,175.59,3,It is okay,It is acceptable but could be better. I purchased the Vacuum Cleaner from the Home & Kitchen category.,Yes,18,6,5,Neutral
+261,30,Other,Home & Kitchen,Air Fryer,242.74,3,It is okay,The quality is reasonable for the price. I purchased the Air Fryer from the Home & Kitchen category.,Yes,18,4,5,Neutral
+262,19,Male,Shoes,Sandals,850.71,5,Great product!,Really satisfied with this purchase. I purchased the Sandals from the Shoes category.,Yes,13,6,1,Positive
+263,45,Female,Shoes,Sandals,1189.28,5,Worth buying,Amazing product and great value. I purchased the Sandals from the Shoes category.,Yes,13,11,9,Positive
+264,50,Female,Clothing,Hoodie,1123.15,3,Nothing special,"Average quality, nothing special. I purchased the Hoodie from the Clothing category.",Yes,12,2,2,Neutral
+265,49,Male,Shoes,Running Shoes,1394.0,3,It is okay,An ordinary product with normal performance. I purchased the Running Shoes from the Shoes category.,Yes,15,1,9,Neutral
+266,53,Male,Home & Kitchen,Vacuum Cleaner,450.94,3,It is okay,The quality is reasonable for the price. I purchased the Vacuum Cleaner from the Home & Kitchen category.,No,18,4,5,Neutral
+267,31,Female,Beauty,Sunscreen,1295.88,1,Very disappointed,Very bad experience with this purchase. I purchased the Sunscreen from the Beauty category.,Yes,14,8,4,Negative
+268,35,Female,Electronics,Bluetooth Speaker,387.92,2,Waste of money,I would not recommend this product. I purchased the Bluetooth Speaker from the Electronics category.,Yes,15,12,7,Negative
+269,24,Male,Electronics,Bluetooth Speaker,1222.02,3,Mixed experience,The product is okay for the price. I purchased the Bluetooth Speaker from the Electronics category.,No,16,4,1,Neutral
+270,40,Female,Shoes,Running Shoes,1342.66,2,Poor product,The product arrived damaged. I purchased the Running Shoes from the Shoes category.,Yes,13,5,6,Negative
+271,42,Male,Books,Biography,725.27,4,Very satisfied,"Fantastic product, I would buy it again. I purchased the Biography from the Books category.",Yes,15,13,3,Positive
+272,29,Female,Shoes,Boots,392.55,2,Waste of money,I regret buying this product. I purchased the Boots from the Shoes category.,Yes,13,12,9,Negative
+273,60,Male,Home & Kitchen,Air Fryer,197.07,3,Nothing special,"Average quality, nothing special. I purchased the Air Fryer from the Home & Kitchen category.",Yes,15,3,8,Neutral
+274,31,Male,Shoes,Sandals,450.54,2,Very disappointed,Terrible quality and stopped working. I purchased the Sandals from the Shoes category.,Yes,13,12,6,Negative
+275,57,Female,Clothing,Hoodie,212.18,3,Mixed experience,The quality is reasonable for the price. I purchased the Hoodie from the Clothing category.,Yes,15,5,5,Neutral
+276,30,Female,Beauty,Sunscreen,1056.14,5,Very satisfied,Really satisfied with this purchase. I purchased the Sunscreen from the Beauty category.,Yes,13,11,3,Positive
+277,47,Female,Electronics,Wireless Earbuds,1310.26,1,Waste of money,Very disappointed with this product. I purchased the Wireless Earbuds from the Electronics category.,Yes,14,9,6,Negative
+278,39,Male,Clothing,T-Shirt,304.48,3,Decent product,"Average quality, nothing special. I purchased the T-Shirt from the Clothing category.",Yes,12,4,5,Neutral
+279,60,Female,Clothing,Hoodie,330.23,1,Waste of money,Terrible quality and stopped working. I purchased the Hoodie from the Clothing category.,No,13,11,3,Negative
+280,44,Female,Clothing,Hoodie,231.06,4,Very satisfied,The quality is better than expected. I purchased the Hoodie from the Clothing category.,Yes,14,8,2,Positive
+281,24,Female,Home & Kitchen,Vacuum Cleaner,491.42,3,Nothing special,"Average quality, nothing special. I purchased the Vacuum Cleaner from the Home & Kitchen category.",No,15,2,6,Neutral
+282,54,Male,Books,Programming Book,1343.65,1,Not recommended,Poor quality and not worth the money. I purchased the Programming Book from the Books category.,No,16,5,1,Negative
+283,56,Male,Beauty,Sunscreen,91.3,5,Very satisfied,Very happy with my purchase. I purchased the Sunscreen from the Beauty category.,Yes,13,8,2,Positive
+284,38,Male,Beauty,Moisturizer,1437.34,3,Average product,It is acceptable but could be better. I purchased the Moisturizer from the Beauty category.,Yes,15,1,1,Neutral
+285,22,Female,Clothing,Formal Shirt,1147.9,3,Nothing special,An ordinary product with normal performance. I purchased the Formal Shirt from the Clothing category.,No,15,3,3,Neutral
+286,52,Male,Clothing,Hoodie,602.71,5,Worth buying,Very happy with my purchase. I purchased the Hoodie from the Clothing category.,No,13,3,3,Positive
+287,31,Female,Books,Self Help Book,82.56,3,Average product,The quality is reasonable for the price. I purchased the Self Help Book from the Books category.,Yes,17,6,1,Neutral
+288,43,Female,Clothing,Hoodie,1024.03,3,Decent product,The product is neither good nor bad. I purchased the Hoodie from the Clothing category.,Yes,15,6,9,Neutral
+289,26,Male,Shoes,Formal Shoes,45.77,3,Average product,The product is okay for the price. I purchased the Formal Shoes from the Shoes category.,Yes,16,5,5,Neutral
+290,19,Female,Home & Kitchen,Coffee Maker,177.42,3,Nothing special,The quality is reasonable for the price. I purchased the Coffee Maker from the Home & Kitchen category.,No,18,2,3,Neutral
+291,41,Male,Books,Programming Book,620.41,3,It is okay,The quality is reasonable for the price. I purchased the Programming Book from the Books category.,Yes,16,0,3,Neutral
+292,50,Female,Home & Kitchen,Vacuum Cleaner,1208.21,5,Worth buying,I absolutely love this product. I purchased the Vacuum Cleaner from the Home & Kitchen category.,No,16,10,7,Positive
+293,18,Male,Clothing,Formal Shirt,461.22,3,Nothing special,The quality is reasonable for the price. I purchased the Formal Shirt from the Clothing category.,Yes,16,4,9,Neutral
+294,57,Male,Books,Science Book,714.81,4,Excellent purchase,Very happy with my purchase. I purchased the Science Book from the Books category.,Yes,14,10,9,Positive
+295,55,Male,Clothing,T-Shirt,484.85,1,Very disappointed,I regret buying this product. I purchased the T-Shirt from the Clothing category.,Yes,13,10,2,Negative
+296,52,Female,Home & Kitchen,Air Fryer,302.48,4,Excellent purchase,Amazing product and great value. I purchased the Air Fryer from the Home & Kitchen category.,Yes,16,8,8,Positive
+297,23,Female,Clothing,T-Shirt,110.39,2,Poor product,I regret buying this product. I purchased the T-Shirt from the Clothing category.,Yes,13,6,4,Negative
+298,48,Male,Home & Kitchen,Vacuum Cleaner,977.57,5,Worth buying,I absolutely love this product. I purchased the Vacuum Cleaner from the Home & Kitchen category.,Yes,16,8,10,Positive
+299,26,Male,Electronics,Wireless Earbuds,11.38,5,Worth buying,Excellent quality and works perfectly. I purchased the Wireless Earbuds from the Electronics category.,No,14,11,3,Positive
+300,34,Male,Electronics,Laptop,1448.16,5,Great product!,Amazing product and great value. I purchased the Laptop from the Electronics category.,Yes,13,8,8,Positive
+301,52,Female,Home & Kitchen,Mixer,282.39,5,Worth buying,"Highly recommended, very useful. I purchased the Mixer from the Home & Kitchen category.",Yes,14,12,2,Positive
+302,41,Male,Beauty,Face Wash,372.92,5,Very satisfied,Amazing product and great value. I purchased the Face Wash from the Beauty category.,No,14,12,8,Positive
+303,57,Female,Shoes,Formal Shoes,1439.61,1,Bad experience,Does not work as advertised. I purchased the Formal Shoes from the Shoes category.,Yes,14,10,4,Negative
+304,52,Female,Electronics,Wireless Earbuds,1472.05,2,Waste of money,Does not work as advertised. I purchased the Wireless Earbuds from the Electronics category.,Yes,14,12,1,Negative
+305,31,Male,Home & Kitchen,Coffee Maker,115.66,5,Worth buying,Excellent quality and works perfectly. I purchased the Coffee Maker from the Home & Kitchen category.,Yes,16,7,1,Positive
+306,31,Male,Electronics,Laptop,785.61,5,Worth buying,The quality is better than expected. I purchased the Laptop from the Electronics category.,Yes,14,5,9,Positive
+307,39,Male,Home & Kitchen,Air Fryer,1232.18,5,Great product!,I absolutely love this product. I purchased the Air Fryer from the Home & Kitchen category.,Yes,16,8,3,Positive
+308,19,Male,Books,Novel,1373.35,5,Very satisfied,Really satisfied with this purchase. I purchased the Novel from the Books category.,No,13,8,1,Positive
+309,23,Male,Clothing,T-Shirt,356.63,2,Bad experience,I would not recommend this product. I purchased the T-Shirt from the Clothing category.,Yes,14,9,1,Negative
+310,32,Female,Shoes,Boots,1010.67,1,Waste of money,Terrible quality and stopped working. I purchased the Boots from the Shoes category.,Yes,13,7,1,Negative
+311,43,Male,Clothing,Jacket,20.4,5,Highly recommended,Very happy with my purchase. I purchased the Jacket from the Clothing category.,Yes,13,5,7,Positive
+312,52,Male,Beauty,Face Wash,663.58,5,Great product!,Really satisfied with this purchase. I purchased the Face Wash from the Beauty category.,Yes,14,5,7,Positive
+313,36,Male,Beauty,Shampoo,40.93,2,Very disappointed,Very disappointed with this product. I purchased the Shampoo from the Beauty category.,No,13,10,3,Negative
+314,57,Male,Shoes,Boots,182.18,3,Nothing special,The product is neither good nor bad. I purchased the Boots from the Shoes category.,No,15,5,4,Neutral
+315,34,Female,Clothing,Jeans,1196.7,5,Great product!,Amazing product and great value. I purchased the Jeans from the Clothing category.,Yes,13,6,10,Positive
+316,44,Female,Home & Kitchen,Air Fryer,220.39,3,Nothing special,The quality is reasonable for the price. I purchased the Air Fryer from the Home & Kitchen category.,No,18,7,9,Neutral
+317,58,Male,Clothing,Jeans,477.42,3,Decent product,An ordinary product with normal performance. I purchased the Jeans from the Clothing category.,No,14,7,3,Neutral
+318,19,Male,Electronics,Wireless Earbuds,780.77,1,Not recommended,Very disappointed with this product. I purchased the Wireless Earbuds from the Electronics category.,Yes,14,8,5,Negative
+319,57,Male,Books,Novel,820.52,4,Worth buying,I absolutely love this product. I purchased the Novel from the Books category.,Yes,13,8,7,Positive
+320,59,Male,Clothing,Formal Shirt,1375.57,3,Nothing special,"Average quality, nothing special. I purchased the Formal Shirt from the Clothing category.",Yes,13,2,4,Neutral
+321,44,Male,Home & Kitchen,Mixer,348.2,5,Excellent purchase,Amazing product and great value. I purchased the Mixer from the Home & Kitchen category.,Yes,15,10,1,Positive
+322,24,Male,Shoes,Sandals,821.45,3,Mixed experience,An ordinary product with normal performance. I purchased the Sandals from the Shoes category.,No,14,2,10,Neutral
+323,58,Male,Home & Kitchen,Vacuum Cleaner,178.14,5,Excellent purchase,I absolutely love this product. I purchased the Vacuum Cleaner from the Home & Kitchen category.,Yes,16,12,4,Positive
+324,30,Female,Clothing,T-Shirt,1260.26,5,Highly recommended,Amazing product and great value. I purchased the T-Shirt from the Clothing category.,No,13,10,4,Positive
+325,24,Female,Beauty,Sunscreen,880.04,4,Worth buying,The quality is better than expected. I purchased the Sunscreen from the Beauty category.,Yes,14,9,5,Positive
+326,59,Female,Electronics,Wireless Earbuds,658.74,2,Very disappointed,Very bad experience with this purchase. I purchased the Wireless Earbuds from the Electronics category.,Yes,15,7,2,Negative
+327,20,Male,Clothing,Jeans,803.38,5,Very satisfied,Amazing product and great value. I purchased the Jeans from the Clothing category.,Yes,13,8,9,Positive
+328,28,Male,Electronics,Laptop,1094.74,2,Poor product,I would not recommend this product. I purchased the Laptop from the Electronics category.,Yes,14,5,6,Negative
+329,47,Female,Books,Biography,1384.74,5,Highly recommended,I absolutely love this product. I purchased the Biography from the Books category.,Yes,13,6,6,Positive
+330,38,Male,Clothing,Formal Shirt,691.79,1,Waste of money,Terrible quality and stopped working. I purchased the Formal Shirt from the Clothing category.,Yes,14,7,9,Negative
+331,28,Female,Clothing,Jeans,609.44,1,Poor product,Does not work as advertised. I purchased the Jeans from the Clothing category.,Yes,13,3,5,Negative
+332,37,Male,Clothing,T-Shirt,870.64,5,Highly recommended,Really satisfied with this purchase. I purchased the T-Shirt from the Clothing category.,Yes,13,12,10,Positive
+333,51,Male,Beauty,Face Wash,733.6,5,Highly recommended,The quality is better than expected. I purchased the Face Wash from the Beauty category.,Yes,15,4,2,Positive
+334,54,Female,Home & Kitchen,Vacuum Cleaner,128.78,2,Bad experience,Terrible quality and stopped working. I purchased the Vacuum Cleaner from the Home & Kitchen category.,No,16,8,9,Negative
+335,30,Male,Books,Biography,481.16,5,Worth buying,"Fantastic product, I would buy it again. I purchased the Biography from the Books category.",No,15,8,5,Positive
+336,57,Male,Books,Novel,1428.62,3,Decent product,It is acceptable but could be better. I purchased the Novel from the Books category.,Yes,15,2,9,Neutral
+337,50,Male,Home & Kitchen,Coffee Maker,812.16,3,It is okay,It is acceptable but could be better. I purchased the Coffee Maker from the Home & Kitchen category.,Yes,18,3,7,Neutral
+338,59,Male,Books,Programming Book,946.47,4,Excellent purchase,I absolutely love this product. I purchased the Programming Book from the Books category.,Yes,14,7,4,Positive
+339,51,Female,Home & Kitchen,Mixer,657.45,5,Worth buying,Excellent quality and works perfectly. I purchased the Mixer from the Home & Kitchen category.,Yes,15,7,4,Positive
+340,49,Male,Clothing,Jeans,605.97,4,Very satisfied,Very happy with my purchase. I purchased the Jeans from the Clothing category.,Yes,13,4,9,Positive
+341,48,Female,Clothing,T-Shirt,1127.99,1,Bad experience,I regret buying this product. I purchased the T-Shirt from the Clothing category.,Yes,13,15,9,Negative
+342,47,Male,Shoes,Sandals,1450.39,3,Decent product,It is acceptable but could be better. I purchased the Sandals from the Shoes category.,Yes,15,4,4,Neutral
+343,40,Other,Clothing,Formal Shirt,773.8,4,Very satisfied,Excellent quality and works perfectly. I purchased the Formal Shirt from the Clothing category.,No,14,7,5,Positive
+344,27,Male,Shoes,Sneakers,500.55,3,Average product,The quality is reasonable for the price. I purchased the Sneakers from the Shoes category.,No,15,3,8,Neutral
+345,38,Female,Home & Kitchen,Mixer,128.03,4,Great product!,Excellent quality and works perfectly. I purchased the Mixer from the Home & Kitchen category.,Yes,15,5,8,Positive
+346,53,Male,Beauty,Sunscreen,589.92,3,Average product,It is acceptable but could be better. I purchased the Sunscreen from the Beauty category.,No,15,5,6,Neutral
+347,35,Male,Home & Kitchen,Air Fryer,1428.69,5,Worth buying,I absolutely love this product. I purchased the Air Fryer from the Home & Kitchen category.,No,16,4,6,Positive
+348,51,Male,Home & Kitchen,Vacuum Cleaner,1450.17,5,Great product!,Very happy with my purchase. I purchased the Vacuum Cleaner from the Home & Kitchen category.,Yes,16,11,3,Positive
+349,24,Female,Books,Programming Book,614.41,4,Excellent purchase,Really satisfied with this purchase. I purchased the Programming Book from the Books category.,Yes,14,4,5,Positive
+350,35,Male,Clothing,T-Shirt,1160.51,1,Very disappointed,Very disappointed with this product. I purchased the T-Shirt from the Clothing category.,No,13,10,4,Negative
+351,27,Male,Books,Novel,23.54,3,Mixed experience,It is acceptable but could be better. I purchased the Novel from the Books category.,Yes,15,4,1,Neutral
+352,48,Female,Clothing,Hoodie,564.34,1,Not recommended,Very bad experience with this purchase. I purchased the Hoodie from the Clothing category.,Yes,14,11,8,Negative
+353,45,Female,Shoes,Sneakers,1257.8,5,Great product!,Amazing product and great value. I purchased the Sneakers from the Shoes category.,Yes,13,5,8,Positive
+354,59,Male,Electronics,Smartphone,296.46,5,Very satisfied,Amazing product and great value. I purchased the Smartphone from the Electronics category.,Yes,13,5,3,Positive
+355,55,Other,Shoes,Sneakers,424.62,5,Worth buying,"Highly recommended, very useful. I purchased the Sneakers from the Shoes category.",Yes,12,6,1,Positive
+356,41,Male,Clothing,Hoodie,328.18,5,Worth buying,Excellent quality and works perfectly. I purchased the Hoodie from the Clothing category.,Yes,13,9,9,Positive
+357,34,Male,Home & Kitchen,Air Fryer,356.28,5,Worth buying,Excellent quality and works perfectly. I purchased the Air Fryer from the Home & Kitchen category.,Yes,16,11,5,Positive
+358,50,Male,Home & Kitchen,Air Fryer,652.5,3,Nothing special,An ordinary product with normal performance. I purchased the Air Fryer from the Home & Kitchen category.,Yes,17,6,8,Neutral
+359,58,Male,Books,Biography,982.19,4,Worth buying,"Fantastic product, I would buy it again. I purchased the Biography from the Books category.",Yes,15,9,8,Positive
+360,22,Male,Electronics,Smartwatch,962.05,4,Worth buying,Really satisfied with this purchase. I purchased the Smartwatch from the Electronics category.,Yes,13,7,2,Positive
+361,45,Female,Electronics,Wireless Earbuds,1244.0,3,Mixed experience,An ordinary product with normal performance. I purchased the Wireless Earbuds from the Electronics category.,Yes,15,4,6,Neutral
+362,49,Female,Home & Kitchen,Coffee Maker,177.63,3,It is okay,The product is okay for the price. I purchased the Coffee Maker from the Home & Kitchen category.,No,18,5,1,Neutral
+363,56,Other,Shoes,Formal Shoes,1463.65,4,Worth buying,Very happy with my purchase. I purchased the Formal Shoes from the Shoes category.,Yes,14,9,10,Positive
+364,55,Female,Electronics,Laptop,965.22,1,Waste of money,Very bad experience with this purchase. I purchased the Laptop from the Electronics category.,No,14,13,10,Negative
+365,33,Male,Clothing,Formal Shirt,900.55,5,Worth buying,"Highly recommended, very useful. I purchased the Formal Shirt from the Clothing category.",No,13,12,6,Positive
+366,46,Female,Home & Kitchen,Coffee Maker,146.12,2,Very disappointed,The product arrived damaged. I purchased the Coffee Maker from the Home & Kitchen category.,Yes,15,14,5,Negative
+367,48,Female,Books,Science Book,496.84,5,Very satisfied,"Highly recommended, very useful. I purchased the Science Book from the Books category.",No,13,13,10,Positive
+368,23,Female,Electronics,Bluetooth Speaker,115.48,3,Average product,"Average quality, nothing special. I purchased the Bluetooth Speaker from the Electronics category.",No,13,3,1,Neutral
+369,47,Male,Electronics,Wireless Earbuds,1185.5,3,Decent product,The quality is reasonable for the price. I purchased the Wireless Earbuds from the Electronics category.,Yes,16,4,3,Neutral
+370,32,Male,Home & Kitchen,Cookware Set,1028.31,1,Very disappointed,Does not work as advertised. I purchased the Cookware Set from the Home & Kitchen category.,Yes,16,6,2,Negative
+371,56,Female,Clothing,Jeans,405.87,2,Waste of money,The product arrived damaged. I purchased the Jeans from the Clothing category.,No,12,7,4,Negative
+372,45,Female,Clothing,Formal Shirt,708.9,3,It is okay,It works but there are some issues. I purchased the Formal Shirt from the Clothing category.,Yes,16,1,9,Neutral
+373,39,Male,Shoes,Running Shoes,1103.13,5,Great product!,Amazing product and great value. I purchased the Running Shoes from the Shoes category.,Yes,14,9,5,Positive
+374,31,Male,Home & Kitchen,Cookware Set,283.3,3,Nothing special,An ordinary product with normal performance. I purchased the Cookware Set from the Home & Kitchen category.,Yes,17,5,3,Neutral
+375,29,Female,Books,Programming Book,334.45,4,Excellent purchase,The quality is better than expected. I purchased the Programming Book from the Books category.,Yes,15,9,9,Positive
+376,56,Male,Books,Biography,981.9,5,Worth buying,Really satisfied with this purchase. I purchased the Biography from the Books category.,Yes,13,4,9,Positive
+377,54,Male,Home & Kitchen,Mixer,1157.33,3,It is okay,Decent product with average performance. I purchased the Mixer from the Home & Kitchen category.,Yes,15,4,3,Neutral
+378,43,Male,Electronics,Bluetooth Speaker,634.2,5,Excellent purchase,Very happy with my purchase. I purchased the Bluetooth Speaker from the Electronics category.,Yes,14,5,2,Positive
+379,27,Female,Books,Biography,269.21,5,Great product!,The quality is better than expected. I purchased the Biography from the Books category.,Yes,14,6,10,Positive
+380,19,Male,Clothing,Hoodie,1366.22,4,Excellent purchase,Amazing product and great value. I purchased the Hoodie from the Clothing category.,Yes,13,5,8,Positive
+381,57,Female,Electronics,Smartphone,616.09,5,Worth buying,"Fantastic product, I would buy it again. I purchased the Smartphone from the Electronics category.",Yes,15,11,8,Positive
+382,43,Female,Clothing,Hoodie,1111.01,4,Great product!,Very happy with my purchase. I purchased the Hoodie from the Clothing category.,Yes,13,13,10,Positive
+383,31,Male,Beauty,Sunscreen,1428.87,5,Excellent purchase,Very happy with my purchase. I purchased the Sunscreen from the Beauty category.,Yes,13,7,4,Positive
+384,51,Male,Electronics,Bluetooth Speaker,579.26,3,Average product,"Average quality, nothing special. I purchased the Bluetooth Speaker from the Electronics category.",No,13,3,7,Neutral
+385,28,Male,Home & Kitchen,Vacuum Cleaner,724.64,2,Bad experience,Poor quality and not worth the money. I purchased the Vacuum Cleaner from the Home & Kitchen category.,Yes,18,15,2,Negative
+386,28,Female,Books,Self Help Book,326.0,1,Poor product,Very bad experience with this purchase. I purchased the Self Help Book from the Books category.,Yes,16,9,3,Negative
+387,46,Male,Clothing,Jacket,1187.22,5,Highly recommended,I absolutely love this product. I purchased the Jacket from the Clothing category.,Yes,13,8,1,Positive
+388,56,Female,Clothing,Hoodie,309.36,5,Great product!,Really satisfied with this purchase. I purchased the Hoodie from the Clothing category.,Yes,13,10,8,Positive
+389,54,Female,Shoes,Formal Shoes,29.79,5,Great product!,The quality is better than expected. I purchased the Formal Shoes from the Shoes category.,Yes,15,9,9,Positive
+390,22,Female,Shoes,Formal Shoes,406.68,1,Poor product,Very bad experience with this purchase. I purchased the Formal Shoes from the Shoes category.,No,15,9,8,Negative
+391,29,Male,Home & Kitchen,Vacuum Cleaner,10.93,3,It is okay,The product is okay for the price. I purchased the Vacuum Cleaner from the Home & Kitchen category.,Yes,18,3,2,Neutral
+392,32,Male,Books,Science Book,962.41,4,Worth buying,I absolutely love this product. I purchased the Science Book from the Books category.,Yes,14,6,7,Positive
+393,38,Female,Beauty,Face Wash,775.14,5,Very satisfied,Really satisfied with this purchase. I purchased the Face Wash from the Beauty category.,Yes,14,12,2,Positive
+394,41,Female,Electronics,Smartwatch,464.6,3,Average product,"Average quality, nothing special. I purchased the Smartwatch from the Electronics category.",Yes,12,4,3,Neutral
+395,34,Male,Books,Programming Book,751.3,4,Worth buying,I absolutely love this product. I purchased the Programming Book from the Books category.,Yes,14,6,2,Positive
+396,24,Male,Clothing,T-Shirt,1086.8,5,Highly recommended,"Highly recommended, very useful. I purchased the T-Shirt from the Clothing category.",Yes,12,5,9,Positive
+397,54,Female,Home & Kitchen,Coffee Maker,991.76,5,Worth buying,Amazing product and great value. I purchased the Coffee Maker from the Home & Kitchen category.,Yes,16,8,5,Positive
+398,19,Female,Books,Programming Book,961.14,5,Highly recommended,Really satisfied with this purchase. I purchased the Programming Book from the Books category.,Yes,14,9,3,Positive
+399,56,Male,Home & Kitchen,Vacuum Cleaner,289.15,4,Great product!,The quality is better than expected. I purchased the Vacuum Cleaner from the Home & Kitchen category.,Yes,17,7,8,Positive
+400,38,Male,Electronics,Wireless Earbuds,88.71,2,Bad experience,I would not recommend this product. I purchased the Wireless Earbuds from the Electronics category.,Yes,15,11,7,Negative
+401,47,Female,Electronics,Smartwatch,1184.17,4,Great product!,Really satisfied with this purchase. I purchased the Smartwatch from the Electronics category.,Yes,13,4,6,Positive
+402,60,Male,Clothing,Hoodie,1057.89,5,Excellent purchase,Excellent quality and works perfectly. I purchased the Hoodie from the Clothing category.,Yes,13,11,2,Positive
+403,57,Male,Electronics,Bluetooth Speaker,556.42,3,Decent product,The product is neither good nor bad. I purchased the Bluetooth Speaker from the Electronics category.,Yes,16,2,9,Neutral
+404,59,Other,Books,Self Help Book,247.15,1,Very disappointed,I would not recommend this product. I purchased the Self Help Book from the Books category.,No,16,5,10,Negative
+405,59,Male,Shoes,Sneakers,146.23,5,Highly recommended,"Highly recommended, very useful. I purchased the Sneakers from the Shoes category.",Yes,12,7,10,Positive
+406,35,Female,Beauty,Shampoo,756.31,5,Worth buying,Very happy with my purchase. I purchased the Shampoo from the Beauty category.,Yes,13,15,8,Positive
+407,26,Male,Electronics,Smartphone,590.26,5,Great product!,The quality is better than expected. I purchased the Smartphone from the Electronics category.,No,14,7,3,Positive
+408,57,Male,Beauty,Sunscreen,905.63,5,Worth buying,I absolutely love this product. I purchased the Sunscreen from the Beauty category.,Yes,13,8,9,Positive
+409,25,Male,Electronics,Smartwatch,1426.61,5,Very satisfied,Amazing product and great value. I purchased the Smartwatch from the Electronics category.,No,13,6,1,Positive
+410,30,Female,Books,Science Book,956.79,5,Excellent purchase,Amazing product and great value. I purchased the Science Book from the Books category.,Yes,14,6,7,Positive
+411,58,Female,Beauty,Moisturizer,473.68,1,Waste of money,Very disappointed with this product. I purchased the Moisturizer from the Beauty category.,Yes,13,7,2,Negative
+412,57,Female,Home & Kitchen,Cookware Set,1247.0,2,Bad experience,Very disappointed with this product. I purchased the Cookware Set from the Home & Kitchen category.,Yes,16,11,9,Negative
+413,60,Male,Books,Biography,268.77,3,Average product,It works but there are some issues. I purchased the Biography from the Books category.,Yes,15,5,2,Neutral
+414,34,Other,Home & Kitchen,Cookware Set,424.06,1,Waste of money,I would not recommend this product. I purchased the Cookware Set from the Home & Kitchen category.,Yes,17,15,2,Negative
+415,25,Male,Electronics,Wireless Earbuds,773.01,2,Poor product,Terrible quality and stopped working. I purchased the Wireless Earbuds from the Electronics category.,Yes,14,7,9,Negative
+416,32,Female,Home & Kitchen,Mixer,1482.67,1,Poor product,I regret buying this product. I purchased the Mixer from the Home & Kitchen category.,Yes,15,11,5,Negative
+417,48,Female,Electronics,Laptop,1323.64,5,Highly recommended,Amazing product and great value. I purchased the Laptop from the Electronics category.,Yes,13,11,1,Positive
+418,24,Male,Beauty,Perfume,58.96,3,Average product,The quality is reasonable for the price. I purchased the Perfume from the Beauty category.,No,15,3,2,Neutral
+419,27,Female,Home & Kitchen,Vacuum Cleaner,1056.46,3,It is okay,Decent product with average performance. I purchased the Vacuum Cleaner from the Home & Kitchen category.,Yes,16,5,9,Neutral
+420,57,Female,Home & Kitchen,Air Fryer,199.04,1,Not recommended,Terrible quality and stopped working. I purchased the Air Fryer from the Home & Kitchen category.,Yes,16,5,4,Negative
+421,27,Female,Electronics,Smartphone,364.93,1,Very disappointed,The product arrived damaged. I purchased the Smartphone from the Electronics category.,Yes,12,9,10,Negative
+422,41,Male,Books,Novel,136.3,3,Decent product,The quality is reasonable for the price. I purchased the Novel from the Books category.,Yes,15,4,1,Neutral
+423,30,Female,Clothing,Jacket,322.03,1,Bad experience,Terrible quality and stopped working. I purchased the Jacket from the Clothing category.,Yes,13,7,7,Negative
+424,36,Male,Books,Novel,545.6,2,Very disappointed,Very disappointed with this product. I purchased the Novel from the Books category.,No,13,16,7,Negative
+425,56,Female,Shoes,Formal Shoes,938.88,3,Nothing special,It is acceptable but could be better. I purchased the Formal Shoes from the Shoes category.,No,16,3,1,Neutral
+426,28,Male,Beauty,Moisturizer,787.53,1,Bad experience,Poor quality and not worth the money. I purchased the Moisturizer from the Beauty category.,Yes,15,10,4,Negative
+427,42,Male,Clothing,Formal Shirt,1017.94,1,Poor product,Very bad experience with this purchase. I purchased the Formal Shirt from the Clothing category.,Yes,15,11,9,Negative
+428,53,Female,Home & Kitchen,Mixer,1462.41,5,Worth buying,"Fantastic product, I would buy it again. I purchased the Mixer from the Home & Kitchen category.",Yes,17,9,10,Positive
+429,41,Female,Shoes,Running Shoes,928.2,1,Very disappointed,I regret buying this product. I purchased the Running Shoes from the Shoes category.,Yes,14,5,1,Negative
+430,28,Female,Books,Novel,717.33,3,It is okay,"Average quality, nothing special. I purchased the Novel from the Books category.",Yes,12,6,6,Neutral
+431,32,Female,Beauty,Face Wash,1090.95,4,Worth buying,The quality is better than expected. I purchased the Face Wash from the Beauty category.,Yes,15,12,9,Positive
+432,55,Male,Electronics,Laptop,906.95,5,Highly recommended,"Fantastic product, I would buy it again. I purchased the Laptop from the Electronics category.",Yes,15,9,2,Positive
+433,18,Female,Clothing,Jeans,668.36,1,Waste of money,Poor quality and not worth the money. I purchased the Jeans from the Clothing category.,No,15,8,6,Negative
+434,50,Female,Clothing,T-Shirt,1311.23,4,Excellent purchase,Amazing product and great value. I purchased the T-Shirt from the Clothing category.,Yes,13,10,7,Positive
+435,27,Female,Home & Kitchen,Air Fryer,334.49,2,Bad experience,Very bad experience with this purchase. I purchased the Air Fryer from the Home & Kitchen category.,Yes,17,10,1,Negative
+436,47,Male,Clothing,Jeans,15.83,4,Worth buying,Really satisfied with this purchase. I purchased the Jeans from the Clothing category.,Yes,13,11,7,Positive
+437,36,Female,Electronics,Wireless Earbuds,62.38,5,Worth buying,Really satisfied with this purchase. I purchased the Wireless Earbuds from the Electronics category.,Yes,14,8,9,Positive
+438,19,Male,Clothing,Formal Shirt,1148.73,5,Very satisfied,Very happy with my purchase. I purchased the Formal Shirt from the Clothing category.,No,14,9,7,Positive
+439,51,Other,Electronics,Wireless Earbuds,437.4,3,Decent product,The product is okay for the price. I purchased the Wireless Earbuds from the Electronics category.,Yes,16,4,4,Neutral
+440,38,Female,Books,Programming Book,957.8,4,Worth buying,"Fantastic product, I would buy it again. I purchased the Programming Book from the Books category.",No,16,4,1,Positive
+441,37,Female,Electronics,Smartwatch,1408.69,5,Worth buying,"Fantastic product, I would buy it again. I purchased the Smartwatch from the Electronics category.",Yes,15,5,7,Positive
+442,30,Female,Shoes,Running Shoes,945.52,1,Bad experience,The product arrived damaged. I purchased the Running Shoes from the Shoes category.,Yes,13,9,2,Negative
+443,26,Female,Beauty,Face Wash,91.52,1,Poor product,Terrible quality and stopped working. I purchased the Face Wash from the Beauty category.,No,14,12,10,Negative
+444,23,Male,Shoes,Sneakers,99.29,3,It is okay,An ordinary product with normal performance. I purchased the Sneakers from the Shoes category.,Yes,14,4,8,Neutral
+445,55,Female,Beauty,Sunscreen,247.5,5,Worth buying,The quality is better than expected. I purchased the Sunscreen from the Beauty category.,Yes,14,12,6,Positive
+446,24,Male,Shoes,Running Shoes,1364.42,3,Average product,It works but there are some issues. I purchased the Running Shoes from the Shoes category.,No,16,3,2,Neutral
+447,30,Female,Home & Kitchen,Air Fryer,511.1,1,Poor product,I regret buying this product. I purchased the Air Fryer from the Home & Kitchen category.,Yes,16,7,8,Negative
+448,58,Male,Home & Kitchen,Air Fryer,808.13,3,Nothing special,It is acceptable but could be better. I purchased the Air Fryer from the Home & Kitchen category.,No,18,3,2,Neutral
+449,35,Female,Books,Novel,1136.27,3,Average product,The product is okay for the price. I purchased the Novel from the Books category.,No,15,1,2,Neutral
+450,25,Female,Books,Self Help Book,401.14,3,Nothing special,The quality is reasonable for the price. I purchased the Self Help Book from the Books category.,Yes,17,4,4,Neutral
+451,21,Female,Books,Self Help Book,926.87,3,Mixed experience,The quality is reasonable for the price. I purchased the Self Help Book from the Books category.,No,17,6,9,Neutral
+452,45,Male,Clothing,Jeans,89.65,5,Great product!,The quality is better than expected. I purchased the Jeans from the Clothing category.,Yes,14,9,2,Positive
+453,29,Female,Shoes,Sandals,965.49,5,Great product!,I absolutely love this product. I purchased the Sandals from the Shoes category.,Yes,13,11,6,Positive
+454,48,Male,Beauty,Perfume,536.83,4,Worth buying,Very happy with my purchase. I purchased the Perfume from the Beauty category.,Yes,13,8,4,Positive
+455,31,Female,Electronics,Wireless Earbuds,612.69,5,Very satisfied,Excellent quality and works perfectly. I purchased the Wireless Earbuds from the Electronics category.,Yes,14,7,5,Positive
+456,26,Female,Beauty,Perfume,426.71,4,Great product!,"Highly recommended, very useful. I purchased the Perfume from the Beauty category.",Yes,12,6,3,Positive
+457,21,Male,Books,Biography,236.82,5,Great product!,Excellent quality and works perfectly. I purchased the Biography from the Books category.,Yes,13,10,2,Positive
+458,31,Male,Shoes,Sandals,735.75,3,It is okay,An ordinary product with normal performance. I purchased the Sandals from the Shoes category.,No,14,3,1,Neutral
+459,42,Female,Beauty,Face Wash,785.14,5,Very satisfied,Really satisfied with this purchase. I purchased the Face Wash from the Beauty category.,Yes,14,6,7,Positive
+460,18,Male,Beauty,Sunscreen,1382.53,2,Waste of money,Terrible quality and stopped working. I purchased the Sunscreen from the Beauty category.,Yes,13,8,2,Negative
+461,39,Male,Shoes,Boots,137.83,1,Bad experience,Poor quality and not worth the money. I purchased the Boots from the Shoes category.,Yes,15,9,10,Negative
+462,55,Male,Beauty,Sunscreen,1451.93,5,Excellent purchase,Really satisfied with this purchase. I purchased the Sunscreen from the Beauty category.,No,13,3,10,Positive
+463,20,Male,Books,Science Book,295.0,1,Bad experience,I would not recommend this product. I purchased the Science Book from the Books category.,Yes,15,8,7,Negative
+464,43,Female,Books,Science Book,114.99,3,Mixed experience,The product is okay for the price. I purchased the Science Book from the Books category.,Yes,16,6,9,Neutral
+465,20,Female,Electronics,Smartphone,712.78,5,Very satisfied,Excellent quality and works perfectly. I purchased the Smartphone from the Electronics category.,No,13,11,6,Positive
+466,55,Male,Electronics,Bluetooth Speaker,947.54,2,Bad experience,Very disappointed with this product. I purchased the Bluetooth Speaker from the Electronics category.,Yes,14,11,10,Negative
+467,36,Female,Books,Self Help Book,541.02,3,It is okay,An ordinary product with normal performance. I purchased the Self Help Book from the Books category.,Yes,16,5,4,Neutral
+468,42,Female,Electronics,Wireless Earbuds,911.56,1,Not recommended,Very disappointed with this product. I purchased the Wireless Earbuds from the Electronics category.,Yes,14,14,5,Negative
+469,43,Female,Beauty,Moisturizer,133.28,2,Poor product,I regret buying this product. I purchased the Moisturizer from the Beauty category.,Yes,13,7,4,Negative
+470,57,Female,Clothing,T-Shirt,1174.64,3,Decent product,It works but there are some issues. I purchased the T-Shirt from the Clothing category.,Yes,15,6,6,Neutral
+471,35,Female,Books,Novel,118.98,2,Poor product,Terrible quality and stopped working. I purchased the Novel from the Books category.,Yes,13,8,3,Negative
+472,24,Female,Electronics,Laptop,1046.16,3,Nothing special,Decent product with average performance. I purchased the Laptop from the Electronics category.,Yes,13,6,6,Neutral
+473,53,Other,Clothing,Jacket,1474.7,2,Bad experience,Very disappointed with this product. I purchased the Jacket from the Clothing category.,Yes,13,7,6,Negative
+474,22,Male,Shoes,Sneakers,193.69,4,Worth buying,Excellent quality and works perfectly. I purchased the Sneakers from the Shoes category.,Yes,13,7,1,Positive
+475,25,Female,Electronics,Smartphone,836.69,1,Poor product,I would not recommend this product. I purchased the Smartphone from the Electronics category.,Yes,14,5,10,Negative
+476,60,Male,Shoes,Running Shoes,962.69,1,Poor product,Poor quality and not worth the money. I purchased the Running Shoes from the Shoes category.,Yes,16,9,4,Negative
+477,21,Male,Shoes,Formal Shoes,235.67,5,Great product!,I absolutely love this product. I purchased the Formal Shoes from the Shoes category.,Yes,14,5,8,Positive
+478,42,Male,Beauty,Perfume,319.69,2,Not recommended,Very bad experience with this purchase. I purchased the Perfume from the Beauty category.,Yes,14,12,9,Negative
+479,38,Male,Books,Self Help Book,84.17,1,Very disappointed,Does not work as advertised. I purchased the Self Help Book from the Books category.,No,15,6,6,Negative
+480,58,Female,Books,Self Help Book,1016.54,5,Very satisfied,Very happy with my purchase. I purchased the Self Help Book from the Books category.,Yes,15,7,10,Positive
+481,54,Male,Electronics,Smartwatch,1100.2,1,Poor product,Very disappointed with this product. I purchased the Smartwatch from the Electronics category.,Yes,13,7,2,Negative
+482,30,Male,Home & Kitchen,Cookware Set,127.26,5,Worth buying,Amazing product and great value. I purchased the Cookware Set from the Home & Kitchen category.,Yes,16,10,7,Positive
+483,33,Male,Beauty,Perfume,1343.6,2,Bad experience,Very disappointed with this product. I purchased the Perfume from the Beauty category.,Yes,13,11,6,Negative
+484,20,Other,Shoes,Sandals,271.82,1,Bad experience,Terrible quality and stopped working. I purchased the Sandals from the Shoes category.,Yes,13,9,3,Negative
+485,20,Male,Home & Kitchen,Coffee Maker,138.01,3,Decent product,"Average quality, nothing special. I purchased the Coffee Maker from the Home & Kitchen category.",Yes,15,3,5,Neutral
+486,59,Female,Electronics,Smartwatch,436.47,5,Excellent purchase,The quality is better than expected. I purchased the Smartwatch from the Electronics category.,Yes,14,5,10,Positive
+487,44,Female,Home & Kitchen,Mixer,1160.41,5,Great product!,I absolutely love this product. I purchased the Mixer from the Home & Kitchen category.,Yes,15,10,3,Positive
+488,31,Female,Beauty,Face Wash,840.57,3,Average product,It is acceptable but could be better. I purchased the Face Wash from the Beauty category.,No,16,4,9,Neutral
+489,27,Female,Books,Science Book,21.93,1,Poor product,Poor quality and not worth the money. I purchased the Science Book from the Books category.,Yes,16,9,1,Negative
+490,24,Male,Electronics,Bluetooth Speaker,601.96,3,Decent product,Decent product with average performance. I purchased the Bluetooth Speaker from the Electronics category.,Yes,14,3,1,Neutral
+491,22,Male,Books,Science Book,203.38,1,Bad experience,Terrible quality and stopped working. I purchased the Science Book from the Books category.,Yes,14,11,5,Negative
+492,59,Male,Clothing,Jeans,1182.59,3,Nothing special,It works but there are some issues. I purchased the Jeans from the Clothing category.,Yes,15,9,5,Neutral
+493,38,Female,Electronics,Wireless Earbuds,532.95,1,Very disappointed,Very disappointed with this product. I purchased the Wireless Earbuds from the Electronics category.,Yes,14,9,6,Negative
+494,47,Female,Home & Kitchen,Mixer,166.85,5,Worth buying,"Fantastic product, I would buy it again. I purchased the Mixer from the Home & Kitchen category.",Yes,17,9,1,Positive
+495,49,Male,Home & Kitchen,Cookware Set,1102.4,3,Nothing special,"Average quality, nothing special. I purchased the Cookware Set from the Home & Kitchen category.",Yes,15,3,4,Neutral
+496,50,Female,Home & Kitchen,Air Fryer,597.57,1,Bad experience,Very disappointed with this product. I purchased the Air Fryer from the Home & Kitchen category.,Yes,16,10,2,Negative
+497,23,Female,Shoes,Running Shoes,81.28,5,Great product!,I absolutely love this product. I purchased the Running Shoes from the Shoes category.,Yes,14,6,5,Positive
+498,33,Female,Clothing,Formal Shirt,1322.51,2,Bad experience,Very bad experience with this purchase. I purchased the Formal Shirt from the Clothing category.,Yes,15,9,4,Negative
+499,44,Male,Home & Kitchen,Mixer,1292.94,3,It is okay,Decent product with average performance. I purchased the Mixer from the Home & Kitchen category.,Yes,15,4,2,Neutral
+500,34,Female,Books,Self Help Book,1330.69,2,Not recommended,I regret buying this product. I purchased the Self Help Book from the Books category.,Yes,15,8,7,Negative

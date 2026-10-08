@@ -1,0 +1,121 @@
+N,P,K,Temperature,Humidity,Rainfall,pH,Soil_Type,Area_Acres,Irrigation,Season,Crop,Max_Yield_Quintals_Acre
+28.4,29.1,33.8,25.4,48.6,51.9,6.3,Sandy,0.7,Sprinkler,Rabi,Chickpea,10.09
+94.1,61.7,67.3,20.9,79.2,173.7,6.44,Sandy,4.13,Rainfed,Kharif,Sugarcane,32.34
+68.7,60.3,18.8,27.8,70.5,72.5,6.7,Sandy,9.14,Rainfed,Rabi,Maize,23.36
+74.5,24.0,32.2,18.8,60.5,85.6,6.92,Clay,9.0,Sprinkler,Zaid,Wheat,25.27
+74.4,61.2,47.1,28.1,73.2,102.1,5.77,Red Soil,8.12,Drip,Kharif,Tomato,32.23
+73.7,27.5,38.6,26.3,74.7,117.5,6.36,Clay,1.6,Canal,Kharif,Tomato,25.99
+67.1,28.8,44.7,23.1,49.0,105.9,5.78,Sandy,7.73,Sprinkler,Zaid,Wheat,23.86
+47.8,23.8,22.3,22.4,54.2,120.8,6.64,Black Soil,9.12,Canal,Zaid,Chickpea,11.51
+61.6,39.9,50.6,28.9,49.7,97.3,6.76,Black Soil,2.27,Sprinkler,Rabi,Cotton,14.89
+28.5,22.4,23.1,27.4,58.2,21.3,6.44,Sandy,4.47,Drip,Kharif,Millet,9.55
+63.1,43.2,60.1,24.4,71.8,98.1,5.63,Loamy,9.98,Canal,Kharif,Tomato,30.31
+44.7,29.4,33.1,30.6,67.5,20.0,6.72,Black Soil,1.27,Rainfed,Zaid,Groundnut,12.54
+61.8,18.8,39.7,32.5,53.1,60.8,6.23,Sandy,2.59,Sprinkler,Zaid,Groundnut,19.22
+54.0,26.5,48.8,25.7,70.8,55.4,6.69,Clay,2.95,Rainfed,Rabi,Cotton,16.07
+40.7,36.5,47.1,30.0,51.3,42.0,6.98,Loamy,6.6,Canal,Kharif,Cotton,11.52
+48.6,36.8,49.3,28.4,58.8,71.4,5.52,Sandy,6.69,Drip,Kharif,Groundnut,13.12
+94.4,41.1,61.9,29.4,77.9,132.8,7.3,Red Soil,5.12,Rainfed,Zaid,Sugarcane,39.32
+101.8,71.9,55.8,23.5,74.8,155.9,6.84,Sandy,7.8,Rainfed,Kharif,Sugarcane,49.4
+103.9,54.1,54.0,27.9,89.8,218.7,6.17,Loamy,3.51,Rainfed,Rabi,Sugarcane,41.52
+37.8,35.0,49.1,27.6,54.3,101.4,6.22,Loamy,8.56,Drip,Zaid,Groundnut,19.08
+45.9,20.2,32.4,22.6,55.2,76.8,7.5,Loamy,1.17,Sprinkler,Rabi,Chickpea,15.72
+35.1,25.5,26.7,26.7,50.3,32.2,6.84,Red Soil,8.47,Sprinkler,Rabi,Chickpea,10.4
+34.3,33.7,30.5,25.3,50.0,72.0,6.54,Red Soil,2.35,Sprinkler,Zaid,Millet,13.41
+67.6,23.8,46.5,22.3,76.0,80.2,6.26,Red Soil,2.25,Sprinkler,Zaid,Tomato,24.07
+81.4,47.3,56.5,28.4,89.9,185.7,7.08,Sandy,2.85,Rainfed,Zaid,Sugarcane,45.14
+64.4,34.6,47.9,19.3,65.8,76.3,6.38,Red Soil,4.29,Sprinkler,Rabi,Potato,30.71
+70.0,41.0,50.5,21.0,64.0,93.7,6.91,Black Soil,4.19,Rainfed,Kharif,Wheat,18.11
+81.4,48.6,44.1,26.3,72.4,83.3,6.0,Black Soil,1.46,Sprinkler,Kharif,Maize,19.9
+89.8,34.7,47.4,22.5,56.3,79.4,6.98,Clay,6.47,Drip,Kharif,Maize,29.85
+69.5,22.3,61.1,24.7,81.8,74.6,6.13,Loamy,7.88,Rainfed,Zaid,Potato,30.57
+109.2,41.1,48.1,29.0,79.4,123.6,5.64,Red Soil,9.01,Drip,Kharif,Sugarcane,57.36
+69.1,42.6,49.0,20.2,74.2,69.5,6.73,Sandy,6.22,Rainfed,Zaid,Potato,20.87
+107.5,55.0,54.9,24.8,75.5,163.1,6.84,Sandy,7.21,Canal,Kharif,Sugarcane,51.23
+78.2,36.5,41.6,28.4,86.1,218.9,6.03,Loamy,6.12,Rainfed,Rabi,Rice,22.57
+78.7,56.8,41.9,24.6,64.9,74.9,6.29,Clay,7.54,Rainfed,Kharif,Maize,25.09
+31.5,29.2,42.3,21.7,57.8,72.3,6.86,Red Soil,9.65,Rainfed,Kharif,Chickpea,14.18
+98.0,52.3,51.2,27.5,71.7,166.1,6.19,Loamy,9.19,Sprinkler,Rabi,Sugarcane,45.88
+118.3,43.3,50.2,21.7,71.3,161.0,6.55,Loamy,2.97,Canal,Rabi,Sugarcane,36.36
+81.4,35.4,42.8,21.2,60.8,135.8,6.41,Loamy,4.08,Sprinkler,Zaid,Potato,26.93
+74.4,39.1,49.9,23.0,75.8,190.1,6.22,Red Soil,7.4,Sprinkler,Rabi,Rice,22.65
+87.2,48.9,56.0,28.3,80.0,151.9,5.96,Clay,5.23,Sprinkler,Rabi,Sugarcane,53.69
+85.3,36.4,44.2,22.6,61.2,64.5,6.41,Red Soil,6.39,Sprinkler,Zaid,Wheat,18.63
+47.4,30.4,47.9,30.2,53.9,77.9,6.33,Loamy,7.94,Rainfed,Rabi,Groundnut,15.28
+95.6,52.7,40.2,28.0,64.0,103.2,6.13,Clay,3.62,Canal,Zaid,Maize,21.3
+48.9,61.3,20.9,28.7,58.6,114.0,6.04,Sandy,5.39,Rainfed,Rabi,Maize,22.7
+95.1,38.5,30.5,21.4,63.7,101.4,5.5,Red Soil,3.56,Sprinkler,Kharif,Maize,24.72
+55.2,25.0,29.1,28.4,56.2,44.3,7.03,Clay,7.6,Sprinkler,Zaid,Groundnut,14.58
+31.3,31.9,33.8,21.1,61.3,33.2,6.92,Red Soil,2.23,Canal,Kharif,Chickpea,15.02
+35.7,27.2,36.7,29.3,67.4,91.3,5.89,Clay,5.8,Rainfed,Kharif,Groundnut,14.86
+40.0,18.0,18.9,30.3,68.4,20.0,7.0,Red Soil,1.95,Canal,Rabi,Millet,9.49
+35.0,45.5,48.1,23.8,71.7,106.8,6.05,Sandy,8.3,Sprinkler,Zaid,Tomato,25.4
+33.6,32.5,23.9,26.6,48.0,62.0,5.84,Loamy,5.53,Drip,Rabi,Millet,14.44
+31.3,32.1,57.3,23.0,59.0,64.8,5.99,Red Soil,0.53,Drip,Zaid,Groundnut,17.05
+54.1,15.8,26.7,27.4,60.6,87.2,6.75,Red Soil,1.83,Drip,Kharif,Groundnut,14.7
+79.7,41.6,37.3,30.2,71.1,91.8,6.72,Sandy,6.43,Drip,Zaid,Maize,25.13
+75.1,42.6,38.2,29.1,64.5,195.9,6.47,Sandy,4.6,Canal,Zaid,Rice,25.81
+44.1,21.7,35.1,33.7,56.3,61.2,6.64,Red Soil,7.9,Drip,Rabi,Millet,10.19
+59.8,38.8,37.7,22.6,56.4,83.3,6.16,Red Soil,5.63,Drip,Zaid,Wheat,21.26
+70.3,33.9,48.6,21.3,68.3,99.0,6.46,Clay,9.5,Rainfed,Rabi,Wheat,19.15
+73.9,33.4,35.4,24.5,64.1,95.4,6.65,Clay,7.83,Canal,Rabi,Wheat,16.95
+77.2,45.8,34.3,27.0,82.8,113.1,6.09,Loamy,2.45,Drip,Kharif,Maize,27.26
+73.4,51.8,16.4,24.4,69.4,131.8,6.01,Loamy,6.08,Canal,Zaid,Maize,20.08
+50.7,42.2,39.3,26.3,65.3,83.6,6.46,Loamy,1.91,Sprinkler,Rabi,Tomato,19.79
+65.2,60.6,45.5,24.0,69.8,105.0,6.25,Red Soil,6.44,Drip,Rabi,Tomato,30.28
+91.7,23.7,18.4,21.9,56.8,105.1,6.4,Sandy,4.05,Sprinkler,Zaid,Maize,26.76
+76.9,47.5,50.2,28.8,72.1,176.9,6.37,Loamy,5.79,Rainfed,Rabi,Rice,23.45
+73.5,43.6,42.1,26.9,62.4,115.4,6.51,Clay,1.31,Canal,Kharif,Tomato,18.68
+71.3,31.6,49.1,21.9,59.3,132.9,5.69,Black Soil,8.39,Drip,Rabi,Maize,29.47
+49.0,35.6,57.8,19.9,67.6,123.7,6.75,Loamy,1.82,Canal,Rabi,Potato,35.46
+48.1,27.4,35.0,30.4,58.8,88.7,6.84,Loamy,3.1,Drip,Kharif,Millet,13.56
+33.3,27.5,26.6,26.4,61.4,32.1,7.05,Red Soil,2.17,Drip,Kharif,Millet,11.81
+24.0,10.2,22.1,28.4,53.4,75.6,6.76,Sandy,3.32,Canal,Rabi,Millet,11.56
+66.1,41.4,49.9,20.2,70.0,83.5,5.71,Clay,5.01,Drip,Kharif,Tomato,24.0
+91.8,55.8,39.6,23.1,77.2,202.5,6.39,Black Soil,9.69,Sprinkler,Rabi,Rice,19.79
+84.2,48.2,63.5,27.3,80.7,195.5,6.95,Loamy,9.08,Rainfed,Zaid,Sugarcane,43.98
+82.7,43.4,51.7,20.7,61.1,63.0,6.37,Clay,4.51,Drip,Rabi,Potato,33.67
+54.4,42.1,33.8,29.3,52.7,106.9,6.71,Loamy,5.61,Sprinkler,Kharif,Cotton,16.54
+81.6,42.1,47.1,27.2,87.5,177.1,6.69,Red Soil,5.06,Rainfed,Zaid,Rice,19.78
+73.4,23.3,35.1,19.3,73.2,108.6,5.44,Red Soil,9.88,Drip,Zaid,Potato,27.83
+72.6,34.8,51.4,24.7,70.4,106.1,6.62,Red Soil,9.9,Canal,Zaid,Tomato,23.28
+48.5,49.6,29.9,25.7,55.6,61.1,5.98,Red Soil,6.48,Canal,Kharif,Groundnut,16.47
+74.3,46.4,40.4,25.9,63.3,61.2,7.02,Red Soil,5.6,Drip,Rabi,Cotton,18.23
+52.1,34.3,45.2,19.9,73.5,85.0,5.68,Black Soil,4.04,Rainfed,Zaid,Potato,27.77
+51.7,29.4,30.3,28.1,62.2,58.8,7.1,Clay,5.67,Drip,Kharif,Millet,14.19
+72.1,48.9,51.6,25.3,77.5,129.2,6.78,Red Soil,8.87,Sprinkler,Kharif,Tomato,19.09
+42.8,26.8,28.8,20.0,61.0,71.3,6.34,Clay,6.52,Rainfed,Kharif,Chickpea,12.81
+59.2,28.1,25.5,26.0,65.4,91.9,6.38,Black Soil,3.36,Drip,Rabi,Groundnut,19.08
+37.5,39.6,22.8,25.6,62.6,114.1,6.18,Clay,0.51,Sprinkler,Rabi,Groundnut,16.38
+42.6,17.4,48.5,26.7,52.9,92.7,6.89,Sandy,3.1,Drip,Rabi,Cotton,12.11
+93.2,35.2,50.5,29.9,68.5,160.5,6.72,Loamy,6.69,Rainfed,Rabi,Sugarcane,47.06
+60.0,36.1,58.0,17.8,73.6,93.6,6.87,Black Soil,4.59,Sprinkler,Kharif,Tomato,20.73
+63.0,17.3,39.5,25.4,67.0,68.1,6.19,Clay,6.96,Sprinkler,Rabi,Groundnut,20.59
+57.3,21.3,38.0,28.2,59.8,60.7,6.11,Loamy,5.92,Canal,Rabi,Groundnut,17.28
+55.2,44.5,39.7,30.6,60.6,40.4,6.41,Clay,7.05,Sprinkler,Zaid,Cotton,12.07
+39.2,26.1,43.6,25.5,44.3,76.5,7.44,Sandy,5.1,Canal,Rabi,Chickpea,14.83
+46.7,20.4,29.8,27.4,46.5,71.3,7.35,Black Soil,2.02,Drip,Zaid,Millet,10.3
+55.1,23.4,28.5,24.6,58.5,20.0,6.7,Sandy,6.96,Drip,Rabi,Chickpea,8.9
+79.8,37.3,42.8,26.8,83.5,199.6,6.56,Black Soil,4.02,Rainfed,Rabi,Rice,24.0
+90.2,36.3,58.6,19.9,68.8,112.1,6.23,Red Soil,2.5,Drip,Rabi,Potato,31.83
+61.1,43.2,34.5,27.8,78.0,148.7,6.18,Black Soil,4.35,Sprinkler,Zaid,Rice,22.46
+73.2,29.3,28.0,15.9,72.0,128.4,6.01,Sandy,8.9,Sprinkler,Rabi,Wheat,19.74
+33.4,17.9,33.4,33.5,46.2,22.6,6.27,Sandy,7.5,Drip,Kharif,Millet,14.55
+69.4,50.4,42.6,24.9,67.7,86.2,6.32,Black Soil,0.99,Drip,Zaid,Tomato,22.35
+91.7,48.5,58.6,25.5,75.1,183.5,6.66,Loamy,6.01,Rainfed,Zaid,Sugarcane,40.89
+24.5,28.2,22.5,23.6,56.9,38.7,7.38,Clay,6.79,Canal,Rabi,Chickpea,11.21
+68.0,40.3,30.9,20.9,63.5,95.0,6.41,Black Soil,6.93,Canal,Zaid,Wheat,22.37
+110.1,64.5,47.1,25.9,63.7,203.3,6.38,Loamy,1.54,Sprinkler,Kharif,Sugarcane,52.32
+62.5,43.4,49.6,29.8,64.4,107.2,6.71,Loamy,3.62,Drip,Rabi,Cotton,14.22
+110.5,32.7,63.5,32.6,72.9,179.1,6.08,Clay,7.71,Drip,Zaid,Sugarcane,49.52
+68.7,20.0,63.3,20.5,58.5,125.6,7.15,Sandy,7.77,Sprinkler,Rabi,Tomato,27.68
+109.1,52.2,55.8,26.8,69.7,173.0,5.91,Black Soil,6.87,Drip,Zaid,Sugarcane,49.3
+63.8,47.3,32.4,21.5,76.6,75.4,6.22,Sandy,1.67,Rainfed,Rabi,Tomato,24.84
+46.4,19.7,23.4,21.6,51.8,83.8,6.65,Red Soil,6.22,Sprinkler,Kharif,Chickpea,15.68
+70.8,44.6,59.3,18.8,62.4,94.4,6.09,Loamy,2.75,Drip,Rabi,Potato,33.46
+81.8,28.4,46.9,26.0,75.6,44.1,6.98,Clay,4.99,Drip,Kharif,Cotton,12.34
+91.2,59.8,68.0,23.2,76.9,216.5,5.91,Loamy,9.88,Canal,Zaid,Sugarcane,49.88
+52.6,29.2,43.3,23.7,53.5,126.1,6.36,Black Soil,1.31,Drip,Zaid,Maize,24.64
+83.0,34.8,30.2,27.1,74.6,195.8,5.66,Clay,6.96,Rainfed,Kharif,Rice,20.31
+53.3,45.6,32.9,31.3,60.7,58.0,5.85,Clay,1.42,Drip,Zaid,Groundnut,19.49
+87.6,21.3,36.0,25.1,85.5,173.8,6.3,Clay,7.99,Rainfed,Kharif,Rice,21.68
